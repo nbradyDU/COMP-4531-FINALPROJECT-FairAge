@@ -1,0 +1,45 @@
+
+# Local working files
+.archive/
+.scratch/
+
+# Local datasets and experiments
+/data/
+/runs/
+/results/*
+!/results/README.md
+!/results/published/
+
+# Python environments and caches
+.venv/
+venv/
+.fairage-venv/
+.conda/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+dist/
+
+# Model checkpoints and training logs
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+events.out.tfevents.*
+
+# Local environment settings
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+*Zone.Identifier

@@ -1,0 +1,29 @@
+# Focused choices; baseline.yaml remains unchanged.
+startup_trials: 5
+pruner_startup_trials: 3
+pruner_min_trials: 3
+scratch:
+  epochs: 100
+  lr: [0.00003, 0.001]
+  weight_decay: [0.0001, 0.1]
+  warmup_epochs: [0, 5, 10]
+  schedule: [cosine, constant]
+  dropout: [0.0, 0.1, 0.2]
+  label_smoothing: [0.0, 0.1]
+  augmentation: [standard, crop]
+  grace_epochs: 40
+  patience: 18
+  min_epochs: 40
+pretrained:
+  epochs: 50
+  lr: [0.00001, 0.0003]
+  head_lr_factor: [1.0, 3.0, 10.0]
+  weight_decay: [0.0001, 0.1]
+  warmup_epochs: [0, 2, 5]
+  schedule: [cosine, constant]
+  dropout: [0.0, 0.1]
+  label_smoothing: [0.0, 0.05]
+  augmentation: [standard, crop]
+  grace_epochs: 10
+  patience: 12
+  min_epochs: 15

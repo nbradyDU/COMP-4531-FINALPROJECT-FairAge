@@ -1,0 +1,127 @@
+population,race,age,support
+publisher_training,East Asian,0-2,408
+publisher_training,East Asian,3-9,1736
+publisher_training,East Asian,10-19,1176
+publisher_training,East Asian,20-29,4765
+publisher_training,East Asian,30-39,2382
+publisher_training,East Asian,40-49,939
+publisher_training,East Asian,50-59,524
+publisher_training,East Asian,60-69,270
+publisher_training,East Asian,more than 70,87
+publisher_training,Indian,0-2,169
+publisher_training,Indian,3-9,1530
+publisher_training,Indian,10-19,1529
+publisher_training,Indian,20-29,3077
+publisher_training,Indian,30-39,2771
+publisher_training,Indian,40-49,1635
+publisher_training,Indian,50-59,984
+publisher_training,Indian,60-69,457
+publisher_training,Indian,more than 70,167
+publisher_training,Black,0-2,279
+publisher_training,Black,3-9,2072
+publisher_training,Black,10-19,1518
+publisher_training,Black,20-29,3171
+publisher_training,Black,30-39,2619
+publisher_training,Black,40-49,1459
+publisher_training,Black,50-59,764
+publisher_training,Black,60-69,279
+publisher_training,Black,more than 70,72
+publisher_training,White,0-2,399
+publisher_training,White,3-9,1237
+publisher_training,White,10-19,1148
+publisher_training,White,20-29,5221
+publisher_training,White,30-39,4139
+publisher_training,White,40-49,2179
+publisher_training,White,50-59,1379
+publisher_training,White,60-69,676
+publisher_training,White,more than 70,149
+publisher_training,Middle Eastern,0-2,134
+publisher_training,Middle Eastern,3-9,721
+publisher_training,Middle Eastern,10-19,735
+publisher_training,Middle Eastern,20-29,2323
+publisher_training,Middle Eastern,30-39,2398
+publisher_training,Middle Eastern,40-49,1517
+publisher_training,Middle Eastern,50-59,837
+publisher_training,Middle Eastern,60-69,435
+publisher_training,Middle Eastern,more than 70,116
+publisher_training,Latino_Hispanic,0-2,189
+publisher_training,Latino_Hispanic,3-9,1589
+publisher_training,Latino_Hispanic,10-19,1609
+publisher_training,Latino_Hispanic,20-29,3531
+publisher_training,Latino_Hispanic,30-39,2932
+publisher_training,Latino_Hispanic,40-49,1957
+publisher_training,Latino_Hispanic,50-59,1124
+publisher_training,Latino_Hispanic,60-69,355
+publisher_training,Latino_Hispanic,more than 70,81
+publisher_training,Southeast Asian,0-2,214
+publisher_training,Southeast Asian,3-9,1523
+publisher_training,Southeast Asian,10-19,1388
+publisher_training,Southeast Asian,20-29,3510
+publisher_training,Southeast Asian,30-39,2009
+publisher_training,Southeast Asian,40-49,1058
+publisher_training,Southeast Asian,50-59,616
+publisher_training,Southeast Asian,60-69,307
+publisher_training,Southeast Asian,more than 70,170
+frozen_training,East Asian,0-2,364
+frozen_training,East Asian,3-9,1569
+frozen_training,East Asian,10-19,1058
+frozen_training,East Asian,20-29,4273
+frozen_training,East Asian,30-39,2150
+frozen_training,East Asian,40-49,846
+frozen_training,East Asian,50-59,471
+frozen_training,East Asian,60-69,242
+frozen_training,East Asian,more than 70,80
+frozen_training,Indian,0-2,149
+frozen_training,Indian,3-9,1362
+frozen_training,Indian,10-19,1345
+frozen_training,Indian,20-29,2760
+frozen_training,Indian,30-39,2473
+frozen_training,Indian,40-49,1443
+frozen_training,Indian,50-59,848
+frozen_training,Indian,60-69,400
+frozen_training,Indian,more than 70,152
+frozen_training,Black,0-2,251
+frozen_training,Black,3-9,1821
+frozen_training,Black,10-19,1359
+frozen_training,Black,20-29,2847
+frozen_training,Black,30-39,2347
+frozen_training,Black,40-49,1293
+frozen_training,Black,50-59,698
+frozen_training,Black,60-69,260
+frozen_training,Black,more than 70,62
+frozen_training,White,0-2,360
+frozen_training,White,3-9,1106
+frozen_training,White,10-19,1025
+frozen_training,White,20-29,4667
+frozen_training,White,30-39,3719
+frozen_training,White,40-49,1973
+frozen_training,White,50-59,1264
+frozen_training,White,60-69,608
+frozen_training,White,more than 70,137
+frozen_training,Middle Eastern,0-2,119
+frozen_training,Middle Eastern,3-9,651
+frozen_training,Middle Eastern,10-19,654
+frozen_training,Middle Eastern,20-29,2091
+frozen_training,Middle Eastern,30-39,2154
+frozen_training,Middle Eastern,40-49,1356
+frozen_training,Middle Eastern,50-59,750
+frozen_training,Middle Eastern,60-69,393
+frozen_training,Middle Eastern,more than 70,102
+frozen_training,Latino_Hispanic,0-2,170
+frozen_training,Latino_Hispanic,3-9,1423
+frozen_training,Latino_Hispanic,10-19,1460
+frozen_training,Latino_Hispanic,20-29,3183
+frozen_training,Latino_Hispanic,30-39,2645
+frozen_training,Latino_Hispanic,40-49,1768
+frozen_training,Latino_Hispanic,50-59,1008
+frozen_training,Latino_Hispanic,60-69,313
+frozen_training,Latino_Hispanic,more than 70,64
+frozen_training,Southeast Asian,0-2,195
+frozen_training,Southeast Asian,3-9,1354
+frozen_training,Southeast Asian,10-19,1249
+frozen_training,Southeast Asian,20-29,3169
+frozen_training,Southeast Asian,30-39,1801
+frozen_training,Southeast Asian,40-49,963
+frozen_training,Southeast Asian,50-59,552
+frozen_training,Southeast Asian,60-69,279
+frozen_training,Southeast Asian,more than 70,157

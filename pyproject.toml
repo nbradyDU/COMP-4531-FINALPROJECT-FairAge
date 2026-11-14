@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fairage"
+version = "0.2.0"
+description = "A small custom DeiT-Tiny study on frozen FairFace splits"
+requires-python = ">=3.12"
+dependencies = ["torch", "torchvision", "numpy", "pandas", "scikit-learn",
+                "matplotlib", "Pillow", "PyYAML>=6", "optuna==5.0.0", "filelock"]
+
+[project.optional-dependencies]
+notebooks = ["ipykernel"]
+
+[project.scripts]
+fairage = "fairage.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

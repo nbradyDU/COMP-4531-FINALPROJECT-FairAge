@@ -1,0 +1,811 @@
+run,checkpoint,epoch,split,evaluation_precision,true_age,predicted_age,count
+lean-scratch-s4531,best,28,development,fp32,0-2,0-2,81
+lean-scratch-s4531,best,28,development,fp32,0-2,3-9,88
+lean-scratch-s4531,best,28,development,fp32,0-2,10-19,1
+lean-scratch-s4531,best,28,development,fp32,0-2,20-29,6
+lean-scratch-s4531,best,28,development,fp32,0-2,30-39,1
+lean-scratch-s4531,best,28,development,fp32,0-2,40-49,1
+lean-scratch-s4531,best,28,development,fp32,0-2,50-59,0
+lean-scratch-s4531,best,28,development,fp32,0-2,60-69,1
+lean-scratch-s4531,best,28,development,fp32,0-2,more than 70,0
+lean-scratch-s4531,best,28,development,fp32,3-9,0-2,39
+lean-scratch-s4531,best,28,development,fp32,3-9,3-9,748
+lean-scratch-s4531,best,28,development,fp32,3-9,10-19,107
+lean-scratch-s4531,best,28,development,fp32,3-9,20-29,97
+lean-scratch-s4531,best,28,development,fp32,3-9,30-39,22
+lean-scratch-s4531,best,28,development,fp32,3-9,40-49,6
+lean-scratch-s4531,best,28,development,fp32,3-9,50-59,9
+lean-scratch-s4531,best,28,development,fp32,3-9,60-69,3
+lean-scratch-s4531,best,28,development,fp32,3-9,more than 70,1
+lean-scratch-s4531,best,28,development,fp32,10-19,0-2,1
+lean-scratch-s4531,best,28,development,fp32,10-19,3-9,157
+lean-scratch-s4531,best,28,development,fp32,10-19,10-19,193
+lean-scratch-s4531,best,28,development,fp32,10-19,20-29,418
+lean-scratch-s4531,best,28,development,fp32,10-19,30-39,112
+lean-scratch-s4531,best,28,development,fp32,10-19,40-49,12
+lean-scratch-s4531,best,28,development,fp32,10-19,50-59,9
+lean-scratch-s4531,best,28,development,fp32,10-19,60-69,3
+lean-scratch-s4531,best,28,development,fp32,10-19,more than 70,0
+lean-scratch-s4531,best,28,development,fp32,20-29,0-2,0
+lean-scratch-s4531,best,28,development,fp32,20-29,3-9,48
+lean-scratch-s4531,best,28,development,fp32,20-29,10-19,82
+lean-scratch-s4531,best,28,development,fp32,20-29,20-29,1546
+lean-scratch-s4531,best,28,development,fp32,20-29,30-39,760
+lean-scratch-s4531,best,28,development,fp32,20-29,40-49,82
+lean-scratch-s4531,best,28,development,fp32,20-29,50-59,28
+lean-scratch-s4531,best,28,development,fp32,20-29,60-69,6
+lean-scratch-s4531,best,28,development,fp32,20-29,more than 70,3
+lean-scratch-s4531,best,28,development,fp32,30-39,0-2,0
+lean-scratch-s4531,best,28,development,fp32,30-39,3-9,12
+lean-scratch-s4531,best,28,development,fp32,30-39,10-19,19
+lean-scratch-s4531,best,28,development,fp32,30-39,20-29,642
+lean-scratch-s4531,best,28,development,fp32,30-39,30-39,924
+lean-scratch-s4531,best,28,development,fp32,30-39,40-49,249
+lean-scratch-s4531,best,28,development,fp32,30-39,50-59,59
+lean-scratch-s4531,best,28,development,fp32,30-39,60-69,13
+lean-scratch-s4531,best,28,development,fp32,30-39,more than 70,3
+lean-scratch-s4531,best,28,development,fp32,40-49,0-2,0
+lean-scratch-s4531,best,28,development,fp32,40-49,3-9,17
+lean-scratch-s4531,best,28,development,fp32,40-49,10-19,3
+lean-scratch-s4531,best,28,development,fp32,40-49,20-29,146
+lean-scratch-s4531,best,28,development,fp32,40-49,30-39,394
+lean-scratch-s4531,best,28,development,fp32,40-49,40-49,296
+lean-scratch-s4531,best,28,development,fp32,40-49,50-59,165
+lean-scratch-s4531,best,28,development,fp32,40-49,60-69,41
+lean-scratch-s4531,best,28,development,fp32,40-49,more than 70,9
+lean-scratch-s4531,best,28,development,fp32,50-59,0-2,0
+lean-scratch-s4531,best,28,development,fp32,50-59,3-9,3
+lean-scratch-s4531,best,28,development,fp32,50-59,10-19,2
+lean-scratch-s4531,best,28,development,fp32,50-59,20-29,32
+lean-scratch-s4531,best,28,development,fp32,50-59,30-39,97
+lean-scratch-s4531,best,28,development,fp32,50-59,40-49,152
+lean-scratch-s4531,best,28,development,fp32,50-59,50-59,233
+lean-scratch-s4531,best,28,development,fp32,50-59,60-69,82
+lean-scratch-s4531,best,28,development,fp32,50-59,more than 70,20
+lean-scratch-s4531,best,28,development,fp32,60-69,0-2,0
+lean-scratch-s4531,best,28,development,fp32,60-69,3-9,2
+lean-scratch-s4531,best,28,development,fp32,60-69,10-19,0
+lean-scratch-s4531,best,28,development,fp32,60-69,20-29,5
+lean-scratch-s4531,best,28,development,fp32,60-69,30-39,22
+lean-scratch-s4531,best,28,development,fp32,60-69,40-49,32
+lean-scratch-s4531,best,28,development,fp32,60-69,50-59,86
+lean-scratch-s4531,best,28,development,fp32,60-69,60-69,105
+lean-scratch-s4531,best,28,development,fp32,60-69,more than 70,25
+lean-scratch-s4531,best,28,development,fp32,more than 70,0-2,0
+lean-scratch-s4531,best,28,development,fp32,more than 70,3-9,1
+lean-scratch-s4531,best,28,development,fp32,more than 70,10-19,0
+lean-scratch-s4531,best,28,development,fp32,more than 70,20-29,1
+lean-scratch-s4531,best,28,development,fp32,more than 70,30-39,2
+lean-scratch-s4531,best,28,development,fp32,more than 70,40-49,0
+lean-scratch-s4531,best,28,development,fp32,more than 70,50-59,15
+lean-scratch-s4531,best,28,development,fp32,more than 70,60-69,29
+lean-scratch-s4531,best,28,development,fp32,more than 70,more than 70,36
+lean-scratch-s4531,best,28,holdout,fp32,0-2,0-2,117
+lean-scratch-s4531,best,28,holdout,fp32,0-2,3-9,72
+lean-scratch-s4531,best,28,holdout,fp32,0-2,10-19,1
+lean-scratch-s4531,best,28,holdout,fp32,0-2,20-29,5
+lean-scratch-s4531,best,28,holdout,fp32,0-2,30-39,0
+lean-scratch-s4531,best,28,holdout,fp32,0-2,40-49,2
+lean-scratch-s4531,best,28,holdout,fp32,0-2,50-59,1
+lean-scratch-s4531,best,28,holdout,fp32,0-2,60-69,1
+lean-scratch-s4531,best,28,holdout,fp32,0-2,more than 70,0
+lean-scratch-s4531,best,28,holdout,fp32,3-9,0-2,52
+lean-scratch-s4531,best,28,holdout,fp32,3-9,3-9,974
+lean-scratch-s4531,best,28,holdout,fp32,3-9,10-19,135
+lean-scratch-s4531,best,28,holdout,fp32,3-9,20-29,149
+lean-scratch-s4531,best,28,holdout,fp32,3-9,30-39,30
+lean-scratch-s4531,best,28,holdout,fp32,3-9,40-49,6
+lean-scratch-s4531,best,28,holdout,fp32,3-9,50-59,8
+lean-scratch-s4531,best,28,holdout,fp32,3-9,60-69,0
+lean-scratch-s4531,best,28,holdout,fp32,3-9,more than 70,2
+lean-scratch-s4531,best,28,holdout,fp32,10-19,0-2,1
+lean-scratch-s4531,best,28,holdout,fp32,10-19,3-9,214
+lean-scratch-s4531,best,28,holdout,fp32,10-19,10-19,243
+lean-scratch-s4531,best,28,holdout,fp32,10-19,20-29,564
+lean-scratch-s4531,best,28,holdout,fp32,10-19,30-39,125
+lean-scratch-s4531,best,28,holdout,fp32,10-19,40-49,20
+lean-scratch-s4531,best,28,holdout,fp32,10-19,50-59,11
+lean-scratch-s4531,best,28,holdout,fp32,10-19,60-69,1
+lean-scratch-s4531,best,28,holdout,fp32,10-19,more than 70,2
+lean-scratch-s4531,best,28,holdout,fp32,20-29,0-2,1
+lean-scratch-s4531,best,28,holdout,fp32,20-29,3-9,50
+lean-scratch-s4531,best,28,holdout,fp32,20-29,10-19,105
+lean-scratch-s4531,best,28,holdout,fp32,20-29,20-29,2013
+lean-scratch-s4531,best,28,holdout,fp32,20-29,30-39,970
+lean-scratch-s4531,best,28,holdout,fp32,20-29,40-49,107
+lean-scratch-s4531,best,28,holdout,fp32,20-29,50-59,37
+lean-scratch-s4531,best,28,holdout,fp32,20-29,60-69,13
+lean-scratch-s4531,best,28,holdout,fp32,20-29,more than 70,4
+lean-scratch-s4531,best,28,holdout,fp32,30-39,0-2,0
+lean-scratch-s4531,best,28,holdout,fp32,30-39,3-9,20
+lean-scratch-s4531,best,28,holdout,fp32,30-39,10-19,40
+lean-scratch-s4531,best,28,holdout,fp32,30-39,20-29,787
+lean-scratch-s4531,best,28,holdout,fp32,30-39,30-39,1125
+lean-scratch-s4531,best,28,holdout,fp32,30-39,40-49,250
+lean-scratch-s4531,best,28,holdout,fp32,30-39,50-59,82
+lean-scratch-s4531,best,28,holdout,fp32,30-39,60-69,21
+lean-scratch-s4531,best,28,holdout,fp32,30-39,more than 70,5
+lean-scratch-s4531,best,28,holdout,fp32,40-49,0-2,0
+lean-scratch-s4531,best,28,holdout,fp32,40-49,3-9,6
+lean-scratch-s4531,best,28,holdout,fp32,40-49,10-19,4
+lean-scratch-s4531,best,28,holdout,fp32,40-49,20-29,184
+lean-scratch-s4531,best,28,holdout,fp32,40-49,30-39,520
+lean-scratch-s4531,best,28,holdout,fp32,40-49,40-49,382
+lean-scratch-s4531,best,28,holdout,fp32,40-49,50-59,210
+lean-scratch-s4531,best,28,holdout,fp32,40-49,60-69,43
+lean-scratch-s4531,best,28,holdout,fp32,40-49,more than 70,4
+lean-scratch-s4531,best,28,holdout,fp32,50-59,0-2,0
+lean-scratch-s4531,best,28,holdout,fp32,50-59,3-9,10
+lean-scratch-s4531,best,28,holdout,fp32,50-59,10-19,4
+lean-scratch-s4531,best,28,holdout,fp32,50-59,20-29,46
+lean-scratch-s4531,best,28,holdout,fp32,50-59,30-39,140
+lean-scratch-s4531,best,28,holdout,fp32,50-59,40-49,200
+lean-scratch-s4531,best,28,holdout,fp32,50-59,50-59,270
+lean-scratch-s4531,best,28,holdout,fp32,50-59,60-69,104
+lean-scratch-s4531,best,28,holdout,fp32,50-59,more than 70,22
+lean-scratch-s4531,best,28,holdout,fp32,60-69,0-2,0
+lean-scratch-s4531,best,28,holdout,fp32,60-69,3-9,4
+lean-scratch-s4531,best,28,holdout,fp32,60-69,10-19,1
+lean-scratch-s4531,best,28,holdout,fp32,60-69,20-29,12
+lean-scratch-s4531,best,28,holdout,fp32,60-69,30-39,27
+lean-scratch-s4531,best,28,holdout,fp32,60-69,40-49,31
+lean-scratch-s4531,best,28,holdout,fp32,60-69,50-59,94
+lean-scratch-s4531,best,28,holdout,fp32,60-69,60-69,123
+lean-scratch-s4531,best,28,holdout,fp32,60-69,more than 70,29
+lean-scratch-s4531,best,28,holdout,fp32,more than 70,0-2,1
+lean-scratch-s4531,best,28,holdout,fp32,more than 70,3-9,3
+lean-scratch-s4531,best,28,holdout,fp32,more than 70,10-19,0
+lean-scratch-s4531,best,28,holdout,fp32,more than 70,20-29,6
+lean-scratch-s4531,best,28,holdout,fp32,more than 70,30-39,4
+lean-scratch-s4531,best,28,holdout,fp32,more than 70,40-49,6
+lean-scratch-s4531,best,28,holdout,fp32,more than 70,50-59,19
+lean-scratch-s4531,best,28,holdout,fp32,more than 70,60-69,39
+lean-scratch-s4531,best,28,holdout,fp32,more than 70,more than 70,40
+lean-pretrained-s4531,best,44,development,fp32,0-2,0-2,112
+lean-pretrained-s4531,best,44,development,fp32,0-2,3-9,64
+lean-pretrained-s4531,best,44,development,fp32,0-2,10-19,2
+lean-pretrained-s4531,best,44,development,fp32,0-2,20-29,0
+lean-pretrained-s4531,best,44,development,fp32,0-2,30-39,1
+lean-pretrained-s4531,best,44,development,fp32,0-2,40-49,0
+lean-pretrained-s4531,best,44,development,fp32,0-2,50-59,0
+lean-pretrained-s4531,best,44,development,fp32,0-2,60-69,0
+lean-pretrained-s4531,best,44,development,fp32,0-2,more than 70,0
+lean-pretrained-s4531,best,44,development,fp32,3-9,0-2,36
+lean-pretrained-s4531,best,44,development,fp32,3-9,3-9,816
+lean-pretrained-s4531,best,44,development,fp32,3-9,10-19,151
+lean-pretrained-s4531,best,44,development,fp32,3-9,20-29,18
+lean-pretrained-s4531,best,44,development,fp32,3-9,30-39,6
+lean-pretrained-s4531,best,44,development,fp32,3-9,40-49,2
+lean-pretrained-s4531,best,44,development,fp32,3-9,50-59,3
+lean-pretrained-s4531,best,44,development,fp32,3-9,60-69,0
+lean-pretrained-s4531,best,44,development,fp32,3-9,more than 70,0
+lean-pretrained-s4531,best,44,development,fp32,10-19,0-2,1
+lean-pretrained-s4531,best,44,development,fp32,10-19,3-9,159
+lean-pretrained-s4531,best,44,development,fp32,10-19,10-19,371
+lean-pretrained-s4531,best,44,development,fp32,10-19,20-29,308
+lean-pretrained-s4531,best,44,development,fp32,10-19,30-39,46
+lean-pretrained-s4531,best,44,development,fp32,10-19,40-49,19
+lean-pretrained-s4531,best,44,development,fp32,10-19,50-59,1
+lean-pretrained-s4531,best,44,development,fp32,10-19,60-69,0
+lean-pretrained-s4531,best,44,development,fp32,10-19,more than 70,0
+lean-pretrained-s4531,best,44,development,fp32,20-29,0-2,1
+lean-pretrained-s4531,best,44,development,fp32,20-29,3-9,21
+lean-pretrained-s4531,best,44,development,fp32,20-29,10-19,208
+lean-pretrained-s4531,best,44,development,fp32,20-29,20-29,1662
+lean-pretrained-s4531,best,44,development,fp32,20-29,30-39,577
+lean-pretrained-s4531,best,44,development,fp32,20-29,40-49,77
+lean-pretrained-s4531,best,44,development,fp32,20-29,50-59,8
+lean-pretrained-s4531,best,44,development,fp32,20-29,60-69,1
+lean-pretrained-s4531,best,44,development,fp32,20-29,more than 70,0
+lean-pretrained-s4531,best,44,development,fp32,30-39,0-2,0
+lean-pretrained-s4531,best,44,development,fp32,30-39,3-9,11
+lean-pretrained-s4531,best,44,development,fp32,30-39,10-19,33
+lean-pretrained-s4531,best,44,development,fp32,30-39,20-29,652
+lean-pretrained-s4531,best,44,development,fp32,30-39,30-39,886
+lean-pretrained-s4531,best,44,development,fp32,30-39,40-49,290
+lean-pretrained-s4531,best,44,development,fp32,30-39,50-59,46
+lean-pretrained-s4531,best,44,development,fp32,30-39,60-69,3
+lean-pretrained-s4531,best,44,development,fp32,30-39,more than 70,0
+lean-pretrained-s4531,best,44,development,fp32,40-49,0-2,0
+lean-pretrained-s4531,best,44,development,fp32,40-49,3-9,7
+lean-pretrained-s4531,best,44,development,fp32,40-49,10-19,10
+lean-pretrained-s4531,best,44,development,fp32,40-49,20-29,89
+lean-pretrained-s4531,best,44,development,fp32,40-49,30-39,346
+lean-pretrained-s4531,best,44,development,fp32,40-49,40-49,438
+lean-pretrained-s4531,best,44,development,fp32,40-49,50-59,167
+lean-pretrained-s4531,best,44,development,fp32,40-49,60-69,14
+lean-pretrained-s4531,best,44,development,fp32,40-49,more than 70,0
+lean-pretrained-s4531,best,44,development,fp32,50-59,0-2,0
+lean-pretrained-s4531,best,44,development,fp32,50-59,3-9,1
+lean-pretrained-s4531,best,44,development,fp32,50-59,10-19,3
+lean-pretrained-s4531,best,44,development,fp32,50-59,20-29,9
+lean-pretrained-s4531,best,44,development,fp32,50-59,30-39,50
+lean-pretrained-s4531,best,44,development,fp32,50-59,40-49,220
+lean-pretrained-s4531,best,44,development,fp32,50-59,50-59,266
+lean-pretrained-s4531,best,44,development,fp32,50-59,60-69,65
+lean-pretrained-s4531,best,44,development,fp32,50-59,more than 70,7
+lean-pretrained-s4531,best,44,development,fp32,60-69,0-2,0
+lean-pretrained-s4531,best,44,development,fp32,60-69,3-9,0
+lean-pretrained-s4531,best,44,development,fp32,60-69,10-19,0
+lean-pretrained-s4531,best,44,development,fp32,60-69,20-29,1
+lean-pretrained-s4531,best,44,development,fp32,60-69,30-39,8
+lean-pretrained-s4531,best,44,development,fp32,60-69,40-49,27
+lean-pretrained-s4531,best,44,development,fp32,60-69,50-59,104
+lean-pretrained-s4531,best,44,development,fp32,60-69,60-69,119
+lean-pretrained-s4531,best,44,development,fp32,60-69,more than 70,18
+lean-pretrained-s4531,best,44,development,fp32,more than 70,0-2,0
+lean-pretrained-s4531,best,44,development,fp32,more than 70,3-9,0
+lean-pretrained-s4531,best,44,development,fp32,more than 70,10-19,0
+lean-pretrained-s4531,best,44,development,fp32,more than 70,20-29,0
+lean-pretrained-s4531,best,44,development,fp32,more than 70,30-39,0
+lean-pretrained-s4531,best,44,development,fp32,more than 70,40-49,1
+lean-pretrained-s4531,best,44,development,fp32,more than 70,50-59,10
+lean-pretrained-s4531,best,44,development,fp32,more than 70,60-69,39
+lean-pretrained-s4531,best,44,development,fp32,more than 70,more than 70,34
+lean-pretrained-s4531,best,44,holdout,fp32,0-2,0-2,140
+lean-pretrained-s4531,best,44,holdout,fp32,0-2,3-9,53
+lean-pretrained-s4531,best,44,holdout,fp32,0-2,10-19,1
+lean-pretrained-s4531,best,44,holdout,fp32,0-2,20-29,3
+lean-pretrained-s4531,best,44,holdout,fp32,0-2,30-39,1
+lean-pretrained-s4531,best,44,holdout,fp32,0-2,40-49,0
+lean-pretrained-s4531,best,44,holdout,fp32,0-2,50-59,0
+lean-pretrained-s4531,best,44,holdout,fp32,0-2,60-69,1
+lean-pretrained-s4531,best,44,holdout,fp32,0-2,more than 70,0
+lean-pretrained-s4531,best,44,holdout,fp32,3-9,0-2,53
+lean-pretrained-s4531,best,44,holdout,fp32,3-9,3-9,1022
+lean-pretrained-s4531,best,44,holdout,fp32,3-9,10-19,224
+lean-pretrained-s4531,best,44,holdout,fp32,3-9,20-29,36
+lean-pretrained-s4531,best,44,holdout,fp32,3-9,30-39,15
+lean-pretrained-s4531,best,44,holdout,fp32,3-9,40-49,3
+lean-pretrained-s4531,best,44,holdout,fp32,3-9,50-59,2
+lean-pretrained-s4531,best,44,holdout,fp32,3-9,60-69,1
+lean-pretrained-s4531,best,44,holdout,fp32,3-9,more than 70,0
+lean-pretrained-s4531,best,44,holdout,fp32,10-19,0-2,0
+lean-pretrained-s4531,best,44,holdout,fp32,10-19,3-9,209
+lean-pretrained-s4531,best,44,holdout,fp32,10-19,10-19,475
+lean-pretrained-s4531,best,44,holdout,fp32,10-19,20-29,410
+lean-pretrained-s4531,best,44,holdout,fp32,10-19,30-39,71
+lean-pretrained-s4531,best,44,holdout,fp32,10-19,40-49,12
+lean-pretrained-s4531,best,44,holdout,fp32,10-19,50-59,4
+lean-pretrained-s4531,best,44,holdout,fp32,10-19,60-69,0
+lean-pretrained-s4531,best,44,holdout,fp32,10-19,more than 70,0
+lean-pretrained-s4531,best,44,holdout,fp32,20-29,0-2,0
+lean-pretrained-s4531,best,44,holdout,fp32,20-29,3-9,27
+lean-pretrained-s4531,best,44,holdout,fp32,20-29,10-19,245
+lean-pretrained-s4531,best,44,holdout,fp32,20-29,20-29,2145
+lean-pretrained-s4531,best,44,holdout,fp32,20-29,30-39,748
+lean-pretrained-s4531,best,44,holdout,fp32,20-29,40-49,114
+lean-pretrained-s4531,best,44,holdout,fp32,20-29,50-59,18
+lean-pretrained-s4531,best,44,holdout,fp32,20-29,60-69,3
+lean-pretrained-s4531,best,44,holdout,fp32,20-29,more than 70,0
+lean-pretrained-s4531,best,44,holdout,fp32,30-39,0-2,1
+lean-pretrained-s4531,best,44,holdout,fp32,30-39,3-9,8
+lean-pretrained-s4531,best,44,holdout,fp32,30-39,10-19,60
+lean-pretrained-s4531,best,44,holdout,fp32,30-39,20-29,775
+lean-pretrained-s4531,best,44,holdout,fp32,30-39,30-39,1048
+lean-pretrained-s4531,best,44,holdout,fp32,30-39,40-49,388
+lean-pretrained-s4531,best,44,holdout,fp32,30-39,50-59,44
+lean-pretrained-s4531,best,44,holdout,fp32,30-39,60-69,6
+lean-pretrained-s4531,best,44,holdout,fp32,30-39,more than 70,0
+lean-pretrained-s4531,best,44,holdout,fp32,40-49,0-2,2
+lean-pretrained-s4531,best,44,holdout,fp32,40-49,3-9,6
+lean-pretrained-s4531,best,44,holdout,fp32,40-49,10-19,8
+lean-pretrained-s4531,best,44,holdout,fp32,40-49,20-29,108
+lean-pretrained-s4531,best,44,holdout,fp32,40-49,30-39,432
+lean-pretrained-s4531,best,44,holdout,fp32,40-49,40-49,580
+lean-pretrained-s4531,best,44,holdout,fp32,40-49,50-59,193
+lean-pretrained-s4531,best,44,holdout,fp32,40-49,60-69,20
+lean-pretrained-s4531,best,44,holdout,fp32,40-49,more than 70,4
+lean-pretrained-s4531,best,44,holdout,fp32,50-59,0-2,1
+lean-pretrained-s4531,best,44,holdout,fp32,50-59,3-9,0
+lean-pretrained-s4531,best,44,holdout,fp32,50-59,10-19,2
+lean-pretrained-s4531,best,44,holdout,fp32,50-59,20-29,21
+lean-pretrained-s4531,best,44,holdout,fp32,50-59,30-39,74
+lean-pretrained-s4531,best,44,holdout,fp32,50-59,40-49,271
+lean-pretrained-s4531,best,44,holdout,fp32,50-59,50-59,324
+lean-pretrained-s4531,best,44,holdout,fp32,50-59,60-69,99
+lean-pretrained-s4531,best,44,holdout,fp32,50-59,more than 70,4
+lean-pretrained-s4531,best,44,holdout,fp32,60-69,0-2,0
+lean-pretrained-s4531,best,44,holdout,fp32,60-69,3-9,1
+lean-pretrained-s4531,best,44,holdout,fp32,60-69,10-19,2
+lean-pretrained-s4531,best,44,holdout,fp32,60-69,20-29,0
+lean-pretrained-s4531,best,44,holdout,fp32,60-69,30-39,6
+lean-pretrained-s4531,best,44,holdout,fp32,60-69,40-49,41
+lean-pretrained-s4531,best,44,holdout,fp32,60-69,50-59,114
+lean-pretrained-s4531,best,44,holdout,fp32,60-69,60-69,131
+lean-pretrained-s4531,best,44,holdout,fp32,60-69,more than 70,26
+lean-pretrained-s4531,best,44,holdout,fp32,more than 70,0-2,0
+lean-pretrained-s4531,best,44,holdout,fp32,more than 70,3-9,1
+lean-pretrained-s4531,best,44,holdout,fp32,more than 70,10-19,1
+lean-pretrained-s4531,best,44,holdout,fp32,more than 70,20-29,0
+lean-pretrained-s4531,best,44,holdout,fp32,more than 70,30-39,0
+lean-pretrained-s4531,best,44,holdout,fp32,more than 70,40-49,1
+lean-pretrained-s4531,best,44,holdout,fp32,more than 70,50-59,28
+lean-pretrained-s4531,best,44,holdout,fp32,more than 70,60-69,49
+lean-pretrained-s4531,best,44,holdout,fp32,more than 70,more than 70,38
+lean-frozen-s4531,best,36,development,fp32,0-2,0-2,78
+lean-frozen-s4531,best,36,development,fp32,0-2,3-9,86
+lean-frozen-s4531,best,36,development,fp32,0-2,10-19,0
+lean-frozen-s4531,best,36,development,fp32,0-2,20-29,12
+lean-frozen-s4531,best,36,development,fp32,0-2,30-39,3
+lean-frozen-s4531,best,36,development,fp32,0-2,40-49,0
+lean-frozen-s4531,best,36,development,fp32,0-2,50-59,0
+lean-frozen-s4531,best,36,development,fp32,0-2,60-69,0
+lean-frozen-s4531,best,36,development,fp32,0-2,more than 70,0
+lean-frozen-s4531,best,36,development,fp32,3-9,0-2,29
+lean-frozen-s4531,best,36,development,fp32,3-9,3-9,558
+lean-frozen-s4531,best,36,development,fp32,3-9,10-19,31
+lean-frozen-s4531,best,36,development,fp32,3-9,20-29,337
+lean-frozen-s4531,best,36,development,fp32,3-9,30-39,58
+lean-frozen-s4531,best,36,development,fp32,3-9,40-49,11
+lean-frozen-s4531,best,36,development,fp32,3-9,50-59,5
+lean-frozen-s4531,best,36,development,fp32,3-9,60-69,3
+lean-frozen-s4531,best,36,development,fp32,3-9,more than 70,0
+lean-frozen-s4531,best,36,development,fp32,10-19,0-2,4
+lean-frozen-s4531,best,36,development,fp32,10-19,3-9,200
+lean-frozen-s4531,best,36,development,fp32,10-19,10-19,45
+lean-frozen-s4531,best,36,development,fp32,10-19,20-29,536
+lean-frozen-s4531,best,36,development,fp32,10-19,30-39,97
+lean-frozen-s4531,best,36,development,fp32,10-19,40-49,13
+lean-frozen-s4531,best,36,development,fp32,10-19,50-59,8
+lean-frozen-s4531,best,36,development,fp32,10-19,60-69,1
+lean-frozen-s4531,best,36,development,fp32,10-19,more than 70,1
+lean-frozen-s4531,best,36,development,fp32,20-29,0-2,4
+lean-frozen-s4531,best,36,development,fp32,20-29,3-9,163
+lean-frozen-s4531,best,36,development,fp32,20-29,10-19,27
+lean-frozen-s4531,best,36,development,fp32,20-29,20-29,1763
+lean-frozen-s4531,best,36,development,fp32,20-29,30-39,490
+lean-frozen-s4531,best,36,development,fp32,20-29,40-49,77
+lean-frozen-s4531,best,36,development,fp32,20-29,50-59,26
+lean-frozen-s4531,best,36,development,fp32,20-29,60-69,3
+lean-frozen-s4531,best,36,development,fp32,20-29,more than 70,2
+lean-frozen-s4531,best,36,development,fp32,30-39,0-2,1
+lean-frozen-s4531,best,36,development,fp32,30-39,3-9,69
+lean-frozen-s4531,best,36,development,fp32,30-39,10-19,15
+lean-frozen-s4531,best,36,development,fp32,30-39,20-29,1049
+lean-frozen-s4531,best,36,development,fp32,30-39,30-39,596
+lean-frozen-s4531,best,36,development,fp32,30-39,40-49,150
+lean-frozen-s4531,best,36,development,fp32,30-39,50-59,30
+lean-frozen-s4531,best,36,development,fp32,30-39,60-69,9
+lean-frozen-s4531,best,36,development,fp32,30-39,more than 70,2
+lean-frozen-s4531,best,36,development,fp32,40-49,0-2,0
+lean-frozen-s4531,best,36,development,fp32,40-49,3-9,31
+lean-frozen-s4531,best,36,development,fp32,40-49,10-19,6
+lean-frozen-s4531,best,36,development,fp32,40-49,20-29,381
+lean-frozen-s4531,best,36,development,fp32,40-49,30-39,378
+lean-frozen-s4531,best,36,development,fp32,40-49,40-49,187
+lean-frozen-s4531,best,36,development,fp32,40-49,50-59,69
+lean-frozen-s4531,best,36,development,fp32,40-49,60-69,18
+lean-frozen-s4531,best,36,development,fp32,40-49,more than 70,1
+lean-frozen-s4531,best,36,development,fp32,50-59,0-2,0
+lean-frozen-s4531,best,36,development,fp32,50-59,3-9,11
+lean-frozen-s4531,best,36,development,fp32,50-59,10-19,4
+lean-frozen-s4531,best,36,development,fp32,50-59,20-29,137
+lean-frozen-s4531,best,36,development,fp32,50-59,30-39,186
+lean-frozen-s4531,best,36,development,fp32,50-59,40-49,133
+lean-frozen-s4531,best,36,development,fp32,50-59,50-59,109
+lean-frozen-s4531,best,36,development,fp32,50-59,60-69,38
+lean-frozen-s4531,best,36,development,fp32,50-59,more than 70,3
+lean-frozen-s4531,best,36,development,fp32,60-69,0-2,0
+lean-frozen-s4531,best,36,development,fp32,60-69,3-9,6
+lean-frozen-s4531,best,36,development,fp32,60-69,10-19,0
+lean-frozen-s4531,best,36,development,fp32,60-69,20-29,34
+lean-frozen-s4531,best,36,development,fp32,60-69,30-39,65
+lean-frozen-s4531,best,36,development,fp32,60-69,40-49,34
+lean-frozen-s4531,best,36,development,fp32,60-69,50-59,84
+lean-frozen-s4531,best,36,development,fp32,60-69,60-69,46
+lean-frozen-s4531,best,36,development,fp32,60-69,more than 70,8
+lean-frozen-s4531,best,36,development,fp32,more than 70,0-2,0
+lean-frozen-s4531,best,36,development,fp32,more than 70,3-9,0
+lean-frozen-s4531,best,36,development,fp32,more than 70,10-19,0
+lean-frozen-s4531,best,36,development,fp32,more than 70,20-29,7
+lean-frozen-s4531,best,36,development,fp32,more than 70,30-39,13
+lean-frozen-s4531,best,36,development,fp32,more than 70,40-49,10
+lean-frozen-s4531,best,36,development,fp32,more than 70,50-59,27
+lean-frozen-s4531,best,36,development,fp32,more than 70,60-69,17
+lean-frozen-s4531,best,36,development,fp32,more than 70,more than 70,10
+lean-frozen-s4531,best,36,holdout,fp32,0-2,0-2,90
+lean-frozen-s4531,best,36,holdout,fp32,0-2,3-9,91
+lean-frozen-s4531,best,36,holdout,fp32,0-2,10-19,0
+lean-frozen-s4531,best,36,holdout,fp32,0-2,20-29,14
+lean-frozen-s4531,best,36,holdout,fp32,0-2,30-39,2
+lean-frozen-s4531,best,36,holdout,fp32,0-2,40-49,1
+lean-frozen-s4531,best,36,holdout,fp32,0-2,50-59,0
+lean-frozen-s4531,best,36,holdout,fp32,0-2,60-69,0
+lean-frozen-s4531,best,36,holdout,fp32,0-2,more than 70,1
+lean-frozen-s4531,best,36,holdout,fp32,3-9,0-2,40
+lean-frozen-s4531,best,36,holdout,fp32,3-9,3-9,773
+lean-frozen-s4531,best,36,holdout,fp32,3-9,10-19,43
+lean-frozen-s4531,best,36,holdout,fp32,3-9,20-29,430
+lean-frozen-s4531,best,36,holdout,fp32,3-9,30-39,52
+lean-frozen-s4531,best,36,holdout,fp32,3-9,40-49,9
+lean-frozen-s4531,best,36,holdout,fp32,3-9,50-59,7
+lean-frozen-s4531,best,36,holdout,fp32,3-9,60-69,2
+lean-frozen-s4531,best,36,holdout,fp32,3-9,more than 70,0
+lean-frozen-s4531,best,36,holdout,fp32,10-19,0-2,1
+lean-frozen-s4531,best,36,holdout,fp32,10-19,3-9,271
+lean-frozen-s4531,best,36,holdout,fp32,10-19,10-19,54
+lean-frozen-s4531,best,36,holdout,fp32,10-19,20-29,712
+lean-frozen-s4531,best,36,holdout,fp32,10-19,30-39,117
+lean-frozen-s4531,best,36,holdout,fp32,10-19,40-49,13
+lean-frozen-s4531,best,36,holdout,fp32,10-19,50-59,9
+lean-frozen-s4531,best,36,holdout,fp32,10-19,60-69,4
+lean-frozen-s4531,best,36,holdout,fp32,10-19,more than 70,0
+lean-frozen-s4531,best,36,holdout,fp32,20-29,0-2,3
+lean-frozen-s4531,best,36,holdout,fp32,20-29,3-9,237
+lean-frozen-s4531,best,36,holdout,fp32,20-29,10-19,42
+lean-frozen-s4531,best,36,holdout,fp32,20-29,20-29,2275
+lean-frozen-s4531,best,36,holdout,fp32,20-29,30-39,605
+lean-frozen-s4531,best,36,holdout,fp32,20-29,40-49,88
+lean-frozen-s4531,best,36,holdout,fp32,20-29,50-59,37
+lean-frozen-s4531,best,36,holdout,fp32,20-29,60-69,12
+lean-frozen-s4531,best,36,holdout,fp32,20-29,more than 70,1
+lean-frozen-s4531,best,36,holdout,fp32,30-39,0-2,1
+lean-frozen-s4531,best,36,holdout,fp32,30-39,3-9,117
+lean-frozen-s4531,best,36,holdout,fp32,30-39,10-19,23
+lean-frozen-s4531,best,36,holdout,fp32,30-39,20-29,1227
+lean-frozen-s4531,best,36,holdout,fp32,30-39,30-39,742
+lean-frozen-s4531,best,36,holdout,fp32,30-39,40-49,141
+lean-frozen-s4531,best,36,holdout,fp32,30-39,50-59,64
+lean-frozen-s4531,best,36,holdout,fp32,30-39,60-69,12
+lean-frozen-s4531,best,36,holdout,fp32,30-39,more than 70,3
+lean-frozen-s4531,best,36,holdout,fp32,40-49,0-2,2
+lean-frozen-s4531,best,36,holdout,fp32,40-49,3-9,35
+lean-frozen-s4531,best,36,holdout,fp32,40-49,10-19,9
+lean-frozen-s4531,best,36,holdout,fp32,40-49,20-29,480
+lean-frozen-s4531,best,36,holdout,fp32,40-49,30-39,468
+lean-frozen-s4531,best,36,holdout,fp32,40-49,40-49,241
+lean-frozen-s4531,best,36,holdout,fp32,40-49,50-59,99
+lean-frozen-s4531,best,36,holdout,fp32,40-49,60-69,17
+lean-frozen-s4531,best,36,holdout,fp32,40-49,more than 70,2
+lean-frozen-s4531,best,36,holdout,fp32,50-59,0-2,0
+lean-frozen-s4531,best,36,holdout,fp32,50-59,3-9,18
+lean-frozen-s4531,best,36,holdout,fp32,50-59,10-19,4
+lean-frozen-s4531,best,36,holdout,fp32,50-59,20-29,179
+lean-frozen-s4531,best,36,holdout,fp32,50-59,30-39,231
+lean-frozen-s4531,best,36,holdout,fp32,50-59,40-49,161
+lean-frozen-s4531,best,36,holdout,fp32,50-59,50-59,157
+lean-frozen-s4531,best,36,holdout,fp32,50-59,60-69,42
+lean-frozen-s4531,best,36,holdout,fp32,50-59,more than 70,4
+lean-frozen-s4531,best,36,holdout,fp32,60-69,0-2,0
+lean-frozen-s4531,best,36,holdout,fp32,60-69,3-9,7
+lean-frozen-s4531,best,36,holdout,fp32,60-69,10-19,0
+lean-frozen-s4531,best,36,holdout,fp32,60-69,20-29,52
+lean-frozen-s4531,best,36,holdout,fp32,60-69,30-39,70
+lean-frozen-s4531,best,36,holdout,fp32,60-69,40-49,47
+lean-frozen-s4531,best,36,holdout,fp32,60-69,50-59,86
+lean-frozen-s4531,best,36,holdout,fp32,60-69,60-69,51
+lean-frozen-s4531,best,36,holdout,fp32,60-69,more than 70,8
+lean-frozen-s4531,best,36,holdout,fp32,more than 70,0-2,0
+lean-frozen-s4531,best,36,holdout,fp32,more than 70,3-9,1
+lean-frozen-s4531,best,36,holdout,fp32,more than 70,10-19,0
+lean-frozen-s4531,best,36,holdout,fp32,more than 70,20-29,7
+lean-frozen-s4531,best,36,holdout,fp32,more than 70,30-39,16
+lean-frozen-s4531,best,36,holdout,fp32,more than 70,40-49,13
+lean-frozen-s4531,best,36,holdout,fp32,more than 70,50-59,18
+lean-frozen-s4531,best,36,holdout,fp32,more than 70,60-69,44
+lean-frozen-s4531,best,36,holdout,fp32,more than 70,more than 70,19
+optuna-scratch-trial-0011,best,55,development,fp32,0-2,0-2,98
+optuna-scratch-trial-0011,best,55,development,fp32,0-2,3-9,76
+optuna-scratch-trial-0011,best,55,development,fp32,0-2,10-19,3
+optuna-scratch-trial-0011,best,55,development,fp32,0-2,20-29,1
+optuna-scratch-trial-0011,best,55,development,fp32,0-2,30-39,1
+optuna-scratch-trial-0011,best,55,development,fp32,0-2,40-49,0
+optuna-scratch-trial-0011,best,55,development,fp32,0-2,50-59,0
+optuna-scratch-trial-0011,best,55,development,fp32,0-2,60-69,0
+optuna-scratch-trial-0011,best,55,development,fp32,0-2,more than 70,0
+optuna-scratch-trial-0011,best,55,development,fp32,3-9,0-2,45
+optuna-scratch-trial-0011,best,55,development,fp32,3-9,3-9,788
+optuna-scratch-trial-0011,best,55,development,fp32,3-9,10-19,127
+optuna-scratch-trial-0011,best,55,development,fp32,3-9,20-29,51
+optuna-scratch-trial-0011,best,55,development,fp32,3-9,30-39,13
+optuna-scratch-trial-0011,best,55,development,fp32,3-9,40-49,1
+optuna-scratch-trial-0011,best,55,development,fp32,3-9,50-59,7
+optuna-scratch-trial-0011,best,55,development,fp32,3-9,60-69,0
+optuna-scratch-trial-0011,best,55,development,fp32,3-9,more than 70,0
+optuna-scratch-trial-0011,best,55,development,fp32,10-19,0-2,2
+optuna-scratch-trial-0011,best,55,development,fp32,10-19,3-9,162
+optuna-scratch-trial-0011,best,55,development,fp32,10-19,10-19,271
+optuna-scratch-trial-0011,best,55,development,fp32,10-19,20-29,397
+optuna-scratch-trial-0011,best,55,development,fp32,10-19,30-39,52
+optuna-scratch-trial-0011,best,55,development,fp32,10-19,40-49,16
+optuna-scratch-trial-0011,best,55,development,fp32,10-19,50-59,5
+optuna-scratch-trial-0011,best,55,development,fp32,10-19,60-69,0
+optuna-scratch-trial-0011,best,55,development,fp32,10-19,more than 70,0
+optuna-scratch-trial-0011,best,55,development,fp32,20-29,0-2,1
+optuna-scratch-trial-0011,best,55,development,fp32,20-29,3-9,41
+optuna-scratch-trial-0011,best,55,development,fp32,20-29,10-19,108
+optuna-scratch-trial-0011,best,55,development,fp32,20-29,20-29,1760
+optuna-scratch-trial-0011,best,55,development,fp32,20-29,30-39,532
+optuna-scratch-trial-0011,best,55,development,fp32,20-29,40-49,98
+optuna-scratch-trial-0011,best,55,development,fp32,20-29,50-59,11
+optuna-scratch-trial-0011,best,55,development,fp32,20-29,60-69,2
+optuna-scratch-trial-0011,best,55,development,fp32,20-29,more than 70,2
+optuna-scratch-trial-0011,best,55,development,fp32,30-39,0-2,0
+optuna-scratch-trial-0011,best,55,development,fp32,30-39,3-9,23
+optuna-scratch-trial-0011,best,55,development,fp32,30-39,10-19,29
+optuna-scratch-trial-0011,best,55,development,fp32,30-39,20-29,752
+optuna-scratch-trial-0011,best,55,development,fp32,30-39,30-39,776
+optuna-scratch-trial-0011,best,55,development,fp32,30-39,40-49,294
+optuna-scratch-trial-0011,best,55,development,fp32,30-39,50-59,41
+optuna-scratch-trial-0011,best,55,development,fp32,30-39,60-69,6
+optuna-scratch-trial-0011,best,55,development,fp32,30-39,more than 70,0
+optuna-scratch-trial-0011,best,55,development,fp32,40-49,0-2,0
+optuna-scratch-trial-0011,best,55,development,fp32,40-49,3-9,12
+optuna-scratch-trial-0011,best,55,development,fp32,40-49,10-19,7
+optuna-scratch-trial-0011,best,55,development,fp32,40-49,20-29,164
+optuna-scratch-trial-0011,best,55,development,fp32,40-49,30-39,301
+optuna-scratch-trial-0011,best,55,development,fp32,40-49,40-49,371
+optuna-scratch-trial-0011,best,55,development,fp32,40-49,50-59,181
+optuna-scratch-trial-0011,best,55,development,fp32,40-49,60-69,34
+optuna-scratch-trial-0011,best,55,development,fp32,40-49,more than 70,1
+optuna-scratch-trial-0011,best,55,development,fp32,50-59,0-2,0
+optuna-scratch-trial-0011,best,55,development,fp32,50-59,3-9,1
+optuna-scratch-trial-0011,best,55,development,fp32,50-59,10-19,3
+optuna-scratch-trial-0011,best,55,development,fp32,50-59,20-29,19
+optuna-scratch-trial-0011,best,55,development,fp32,50-59,30-39,63
+optuna-scratch-trial-0011,best,55,development,fp32,50-59,40-49,187
+optuna-scratch-trial-0011,best,55,development,fp32,50-59,50-59,255
+optuna-scratch-trial-0011,best,55,development,fp32,50-59,60-69,87
+optuna-scratch-trial-0011,best,55,development,fp32,50-59,more than 70,6
+optuna-scratch-trial-0011,best,55,development,fp32,60-69,0-2,0
+optuna-scratch-trial-0011,best,55,development,fp32,60-69,3-9,2
+optuna-scratch-trial-0011,best,55,development,fp32,60-69,10-19,0
+optuna-scratch-trial-0011,best,55,development,fp32,60-69,20-29,8
+optuna-scratch-trial-0011,best,55,development,fp32,60-69,30-39,10
+optuna-scratch-trial-0011,best,55,development,fp32,60-69,40-49,29
+optuna-scratch-trial-0011,best,55,development,fp32,60-69,50-59,83
+optuna-scratch-trial-0011,best,55,development,fp32,60-69,60-69,126
+optuna-scratch-trial-0011,best,55,development,fp32,60-69,more than 70,19
+optuna-scratch-trial-0011,best,55,development,fp32,more than 70,0-2,0
+optuna-scratch-trial-0011,best,55,development,fp32,more than 70,3-9,2
+optuna-scratch-trial-0011,best,55,development,fp32,more than 70,10-19,0
+optuna-scratch-trial-0011,best,55,development,fp32,more than 70,20-29,1
+optuna-scratch-trial-0011,best,55,development,fp32,more than 70,30-39,2
+optuna-scratch-trial-0011,best,55,development,fp32,more than 70,40-49,1
+optuna-scratch-trial-0011,best,55,development,fp32,more than 70,50-59,5
+optuna-scratch-trial-0011,best,55,development,fp32,more than 70,60-69,34
+optuna-scratch-trial-0011,best,55,development,fp32,more than 70,more than 70,39
+optuna-scratch-trial-0011,best,55,holdout,fp32,0-2,0-2,130
+optuna-scratch-trial-0011,best,55,holdout,fp32,0-2,3-9,59
+optuna-scratch-trial-0011,best,55,holdout,fp32,0-2,10-19,1
+optuna-scratch-trial-0011,best,55,holdout,fp32,0-2,20-29,5
+optuna-scratch-trial-0011,best,55,holdout,fp32,0-2,30-39,2
+optuna-scratch-trial-0011,best,55,holdout,fp32,0-2,40-49,1
+optuna-scratch-trial-0011,best,55,holdout,fp32,0-2,50-59,0
+optuna-scratch-trial-0011,best,55,holdout,fp32,0-2,60-69,1
+optuna-scratch-trial-0011,best,55,holdout,fp32,0-2,more than 70,0
+optuna-scratch-trial-0011,best,55,holdout,fp32,3-9,0-2,55
+optuna-scratch-trial-0011,best,55,holdout,fp32,3-9,3-9,1019
+optuna-scratch-trial-0011,best,55,holdout,fp32,3-9,10-19,181
+optuna-scratch-trial-0011,best,55,holdout,fp32,3-9,20-29,80
+optuna-scratch-trial-0011,best,55,holdout,fp32,3-9,30-39,14
+optuna-scratch-trial-0011,best,55,holdout,fp32,3-9,40-49,5
+optuna-scratch-trial-0011,best,55,holdout,fp32,3-9,50-59,1
+optuna-scratch-trial-0011,best,55,holdout,fp32,3-9,60-69,1
+optuna-scratch-trial-0011,best,55,holdout,fp32,3-9,more than 70,0
+optuna-scratch-trial-0011,best,55,holdout,fp32,10-19,0-2,2
+optuna-scratch-trial-0011,best,55,holdout,fp32,10-19,3-9,218
+optuna-scratch-trial-0011,best,55,holdout,fp32,10-19,10-19,356
+optuna-scratch-trial-0011,best,55,holdout,fp32,10-19,20-29,516
+optuna-scratch-trial-0011,best,55,holdout,fp32,10-19,30-39,69
+optuna-scratch-trial-0011,best,55,holdout,fp32,10-19,40-49,13
+optuna-scratch-trial-0011,best,55,holdout,fp32,10-19,50-59,4
+optuna-scratch-trial-0011,best,55,holdout,fp32,10-19,60-69,2
+optuna-scratch-trial-0011,best,55,holdout,fp32,10-19,more than 70,1
+optuna-scratch-trial-0011,best,55,holdout,fp32,20-29,0-2,2
+optuna-scratch-trial-0011,best,55,holdout,fp32,20-29,3-9,49
+optuna-scratch-trial-0011,best,55,holdout,fp32,20-29,10-19,128
+optuna-scratch-trial-0011,best,55,holdout,fp32,20-29,20-29,2278
+optuna-scratch-trial-0011,best,55,holdout,fp32,20-29,30-39,687
+optuna-scratch-trial-0011,best,55,holdout,fp32,20-29,40-49,116
+optuna-scratch-trial-0011,best,55,holdout,fp32,20-29,50-59,31
+optuna-scratch-trial-0011,best,55,holdout,fp32,20-29,60-69,9
+optuna-scratch-trial-0011,best,55,holdout,fp32,20-29,more than 70,0
+optuna-scratch-trial-0011,best,55,holdout,fp32,30-39,0-2,2
+optuna-scratch-trial-0011,best,55,holdout,fp32,30-39,3-9,21
+optuna-scratch-trial-0011,best,55,holdout,fp32,30-39,10-19,36
+optuna-scratch-trial-0011,best,55,holdout,fp32,30-39,20-29,903
+optuna-scratch-trial-0011,best,55,holdout,fp32,30-39,30-39,917
+optuna-scratch-trial-0011,best,55,holdout,fp32,30-39,40-49,379
+optuna-scratch-trial-0011,best,55,holdout,fp32,30-39,50-59,63
+optuna-scratch-trial-0011,best,55,holdout,fp32,30-39,60-69,9
+optuna-scratch-trial-0011,best,55,holdout,fp32,30-39,more than 70,0
+optuna-scratch-trial-0011,best,55,holdout,fp32,40-49,0-2,0
+optuna-scratch-trial-0011,best,55,holdout,fp32,40-49,3-9,10
+optuna-scratch-trial-0011,best,55,holdout,fp32,40-49,10-19,12
+optuna-scratch-trial-0011,best,55,holdout,fp32,40-49,20-29,197
+optuna-scratch-trial-0011,best,55,holdout,fp32,40-49,30-39,391
+optuna-scratch-trial-0011,best,55,holdout,fp32,40-49,40-49,485
+optuna-scratch-trial-0011,best,55,holdout,fp32,40-49,50-59,221
+optuna-scratch-trial-0011,best,55,holdout,fp32,40-49,60-69,34
+optuna-scratch-trial-0011,best,55,holdout,fp32,40-49,more than 70,3
+optuna-scratch-trial-0011,best,55,holdout,fp32,50-59,0-2,1
+optuna-scratch-trial-0011,best,55,holdout,fp32,50-59,3-9,4
+optuna-scratch-trial-0011,best,55,holdout,fp32,50-59,10-19,3
+optuna-scratch-trial-0011,best,55,holdout,fp32,50-59,20-29,44
+optuna-scratch-trial-0011,best,55,holdout,fp32,50-59,30-39,84
+optuna-scratch-trial-0011,best,55,holdout,fp32,50-59,40-49,232
+optuna-scratch-trial-0011,best,55,holdout,fp32,50-59,50-59,291
+optuna-scratch-trial-0011,best,55,holdout,fp32,50-59,60-69,125
+optuna-scratch-trial-0011,best,55,holdout,fp32,50-59,more than 70,12
+optuna-scratch-trial-0011,best,55,holdout,fp32,60-69,0-2,0
+optuna-scratch-trial-0011,best,55,holdout,fp32,60-69,3-9,3
+optuna-scratch-trial-0011,best,55,holdout,fp32,60-69,10-19,1
+optuna-scratch-trial-0011,best,55,holdout,fp32,60-69,20-29,10
+optuna-scratch-trial-0011,best,55,holdout,fp32,60-69,30-39,15
+optuna-scratch-trial-0011,best,55,holdout,fp32,60-69,40-49,37
+optuna-scratch-trial-0011,best,55,holdout,fp32,60-69,50-59,97
+optuna-scratch-trial-0011,best,55,holdout,fp32,60-69,60-69,138
+optuna-scratch-trial-0011,best,55,holdout,fp32,60-69,more than 70,20
+optuna-scratch-trial-0011,best,55,holdout,fp32,more than 70,0-2,0
+optuna-scratch-trial-0011,best,55,holdout,fp32,more than 70,3-9,0
+optuna-scratch-trial-0011,best,55,holdout,fp32,more than 70,10-19,0
+optuna-scratch-trial-0011,best,55,holdout,fp32,more than 70,20-29,1
+optuna-scratch-trial-0011,best,55,holdout,fp32,more than 70,30-39,1
+optuna-scratch-trial-0011,best,55,holdout,fp32,more than 70,40-49,3
+optuna-scratch-trial-0011,best,55,holdout,fp32,more than 70,50-59,18
+optuna-scratch-trial-0011,best,55,holdout,fp32,more than 70,60-69,54
+optuna-scratch-trial-0011,best,55,holdout,fp32,more than 70,more than 70,41
+optuna-pretrained-trial-0128,best,9,development,fp32,0-2,0-2,122
+optuna-pretrained-trial-0128,best,9,development,fp32,0-2,3-9,56
+optuna-pretrained-trial-0128,best,9,development,fp32,0-2,10-19,0
+optuna-pretrained-trial-0128,best,9,development,fp32,0-2,20-29,1
+optuna-pretrained-trial-0128,best,9,development,fp32,0-2,30-39,0
+optuna-pretrained-trial-0128,best,9,development,fp32,0-2,40-49,0
+optuna-pretrained-trial-0128,best,9,development,fp32,0-2,50-59,0
+optuna-pretrained-trial-0128,best,9,development,fp32,0-2,60-69,0
+optuna-pretrained-trial-0128,best,9,development,fp32,0-2,more than 70,0
+optuna-pretrained-trial-0128,best,9,development,fp32,3-9,0-2,38
+optuna-pretrained-trial-0128,best,9,development,fp32,3-9,3-9,753
+optuna-pretrained-trial-0128,best,9,development,fp32,3-9,10-19,204
+optuna-pretrained-trial-0128,best,9,development,fp32,3-9,20-29,26
+optuna-pretrained-trial-0128,best,9,development,fp32,3-9,30-39,8
+optuna-pretrained-trial-0128,best,9,development,fp32,3-9,40-49,1
+optuna-pretrained-trial-0128,best,9,development,fp32,3-9,50-59,2
+optuna-pretrained-trial-0128,best,9,development,fp32,3-9,60-69,0
+optuna-pretrained-trial-0128,best,9,development,fp32,3-9,more than 70,0
+optuna-pretrained-trial-0128,best,9,development,fp32,10-19,0-2,1
+optuna-pretrained-trial-0128,best,9,development,fp32,10-19,3-9,116
+optuna-pretrained-trial-0128,best,9,development,fp32,10-19,10-19,378
+optuna-pretrained-trial-0128,best,9,development,fp32,10-19,20-29,329
+optuna-pretrained-trial-0128,best,9,development,fp32,10-19,30-39,69
+optuna-pretrained-trial-0128,best,9,development,fp32,10-19,40-49,8
+optuna-pretrained-trial-0128,best,9,development,fp32,10-19,50-59,3
+optuna-pretrained-trial-0128,best,9,development,fp32,10-19,60-69,1
+optuna-pretrained-trial-0128,best,9,development,fp32,10-19,more than 70,0
+optuna-pretrained-trial-0128,best,9,development,fp32,20-29,0-2,0
+optuna-pretrained-trial-0128,best,9,development,fp32,20-29,3-9,7
+optuna-pretrained-trial-0128,best,9,development,fp32,20-29,10-19,119
+optuna-pretrained-trial-0128,best,9,development,fp32,20-29,20-29,1583
+optuna-pretrained-trial-0128,best,9,development,fp32,20-29,30-39,782
+optuna-pretrained-trial-0128,best,9,development,fp32,20-29,40-49,59
+optuna-pretrained-trial-0128,best,9,development,fp32,20-29,50-59,4
+optuna-pretrained-trial-0128,best,9,development,fp32,20-29,60-69,1
+optuna-pretrained-trial-0128,best,9,development,fp32,20-29,more than 70,0
+optuna-pretrained-trial-0128,best,9,development,fp32,30-39,0-2,0
+optuna-pretrained-trial-0128,best,9,development,fp32,30-39,3-9,5
+optuna-pretrained-trial-0128,best,9,development,fp32,30-39,10-19,23
+optuna-pretrained-trial-0128,best,9,development,fp32,30-39,20-29,507
+optuna-pretrained-trial-0128,best,9,development,fp32,30-39,30-39,1076
+optuna-pretrained-trial-0128,best,9,development,fp32,30-39,40-49,278
+optuna-pretrained-trial-0128,best,9,development,fp32,30-39,50-59,30
+optuna-pretrained-trial-0128,best,9,development,fp32,30-39,60-69,2
+optuna-pretrained-trial-0128,best,9,development,fp32,30-39,more than 70,0
+optuna-pretrained-trial-0128,best,9,development,fp32,40-49,0-2,0
+optuna-pretrained-trial-0128,best,9,development,fp32,40-49,3-9,2
+optuna-pretrained-trial-0128,best,9,development,fp32,40-49,10-19,6
+optuna-pretrained-trial-0128,best,9,development,fp32,40-49,20-29,53
+optuna-pretrained-trial-0128,best,9,development,fp32,40-49,30-39,389
+optuna-pretrained-trial-0128,best,9,development,fp32,40-49,40-49,433
+optuna-pretrained-trial-0128,best,9,development,fp32,40-49,50-59,166
+optuna-pretrained-trial-0128,best,9,development,fp32,40-49,60-69,21
+optuna-pretrained-trial-0128,best,9,development,fp32,40-49,more than 70,1
+optuna-pretrained-trial-0128,best,9,development,fp32,50-59,0-2,0
+optuna-pretrained-trial-0128,best,9,development,fp32,50-59,3-9,0
+optuna-pretrained-trial-0128,best,9,development,fp32,50-59,10-19,2
+optuna-pretrained-trial-0128,best,9,development,fp32,50-59,20-29,6
+optuna-pretrained-trial-0128,best,9,development,fp32,50-59,30-39,54
+optuna-pretrained-trial-0128,best,9,development,fp32,50-59,40-49,188
+optuna-pretrained-trial-0128,best,9,development,fp32,50-59,50-59,282
+optuna-pretrained-trial-0128,best,9,development,fp32,50-59,60-69,82
+optuna-pretrained-trial-0128,best,9,development,fp32,50-59,more than 70,7
+optuna-pretrained-trial-0128,best,9,development,fp32,60-69,0-2,0
+optuna-pretrained-trial-0128,best,9,development,fp32,60-69,3-9,0
+optuna-pretrained-trial-0128,best,9,development,fp32,60-69,10-19,0
+optuna-pretrained-trial-0128,best,9,development,fp32,60-69,20-29,2
+optuna-pretrained-trial-0128,best,9,development,fp32,60-69,30-39,2
+optuna-pretrained-trial-0128,best,9,development,fp32,60-69,40-49,29
+optuna-pretrained-trial-0128,best,9,development,fp32,60-69,50-59,79
+optuna-pretrained-trial-0128,best,9,development,fp32,60-69,60-69,130
+optuna-pretrained-trial-0128,best,9,development,fp32,60-69,more than 70,35
+optuna-pretrained-trial-0128,best,9,development,fp32,more than 70,0-2,0
+optuna-pretrained-trial-0128,best,9,development,fp32,more than 70,3-9,0
+optuna-pretrained-trial-0128,best,9,development,fp32,more than 70,10-19,0
+optuna-pretrained-trial-0128,best,9,development,fp32,more than 70,20-29,0
+optuna-pretrained-trial-0128,best,9,development,fp32,more than 70,30-39,0
+optuna-pretrained-trial-0128,best,9,development,fp32,more than 70,40-49,0
+optuna-pretrained-trial-0128,best,9,development,fp32,more than 70,50-59,9
+optuna-pretrained-trial-0128,best,9,development,fp32,more than 70,60-69,27
+optuna-pretrained-trial-0128,best,9,development,fp32,more than 70,more than 70,48
+optuna-pretrained-trial-0128,best,9,holdout,fp32,0-2,0-2,142
+optuna-pretrained-trial-0128,best,9,holdout,fp32,0-2,3-9,52
+optuna-pretrained-trial-0128,best,9,holdout,fp32,0-2,10-19,2
+optuna-pretrained-trial-0128,best,9,holdout,fp32,0-2,20-29,1
+optuna-pretrained-trial-0128,best,9,holdout,fp32,0-2,30-39,1
+optuna-pretrained-trial-0128,best,9,holdout,fp32,0-2,40-49,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,0-2,50-59,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,0-2,60-69,1
+optuna-pretrained-trial-0128,best,9,holdout,fp32,0-2,more than 70,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,3-9,0-2,52
+optuna-pretrained-trial-0128,best,9,holdout,fp32,3-9,3-9,963
+optuna-pretrained-trial-0128,best,9,holdout,fp32,3-9,10-19,282
+optuna-pretrained-trial-0128,best,9,holdout,fp32,3-9,20-29,39
+optuna-pretrained-trial-0128,best,9,holdout,fp32,3-9,30-39,12
+optuna-pretrained-trial-0128,best,9,holdout,fp32,3-9,40-49,6
+optuna-pretrained-trial-0128,best,9,holdout,fp32,3-9,50-59,1
+optuna-pretrained-trial-0128,best,9,holdout,fp32,3-9,60-69,1
+optuna-pretrained-trial-0128,best,9,holdout,fp32,3-9,more than 70,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,10-19,0-2,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,10-19,3-9,149
+optuna-pretrained-trial-0128,best,9,holdout,fp32,10-19,10-19,466
+optuna-pretrained-trial-0128,best,9,holdout,fp32,10-19,20-29,456
+optuna-pretrained-trial-0128,best,9,holdout,fp32,10-19,30-39,102
+optuna-pretrained-trial-0128,best,9,holdout,fp32,10-19,40-49,7
+optuna-pretrained-trial-0128,best,9,holdout,fp32,10-19,50-59,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,10-19,60-69,1
+optuna-pretrained-trial-0128,best,9,holdout,fp32,10-19,more than 70,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,20-29,0-2,1
+optuna-pretrained-trial-0128,best,9,holdout,fp32,20-29,3-9,13
+optuna-pretrained-trial-0128,best,9,holdout,fp32,20-29,10-19,165
+optuna-pretrained-trial-0128,best,9,holdout,fp32,20-29,20-29,2011
+optuna-pretrained-trial-0128,best,9,holdout,fp32,20-29,30-39,1022
+optuna-pretrained-trial-0128,best,9,holdout,fp32,20-29,40-49,81
+optuna-pretrained-trial-0128,best,9,holdout,fp32,20-29,50-59,6
+optuna-pretrained-trial-0128,best,9,holdout,fp32,20-29,60-69,1
+optuna-pretrained-trial-0128,best,9,holdout,fp32,20-29,more than 70,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,30-39,0-2,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,30-39,3-9,3
+optuna-pretrained-trial-0128,best,9,holdout,fp32,30-39,10-19,28
+optuna-pretrained-trial-0128,best,9,holdout,fp32,30-39,20-29,596
+optuna-pretrained-trial-0128,best,9,holdout,fp32,30-39,30-39,1317
+optuna-pretrained-trial-0128,best,9,holdout,fp32,30-39,40-49,348
+optuna-pretrained-trial-0128,best,9,holdout,fp32,30-39,50-59,35
+optuna-pretrained-trial-0128,best,9,holdout,fp32,30-39,60-69,3
+optuna-pretrained-trial-0128,best,9,holdout,fp32,30-39,more than 70,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,40-49,0-2,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,40-49,3-9,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,40-49,10-19,8
+optuna-pretrained-trial-0128,best,9,holdout,fp32,40-49,20-29,63
+optuna-pretrained-trial-0128,best,9,holdout,fp32,40-49,30-39,463
+optuna-pretrained-trial-0128,best,9,holdout,fp32,40-49,40-49,588
+optuna-pretrained-trial-0128,best,9,holdout,fp32,40-49,50-59,203
+optuna-pretrained-trial-0128,best,9,holdout,fp32,40-49,60-69,26
+optuna-pretrained-trial-0128,best,9,holdout,fp32,40-49,more than 70,2
+optuna-pretrained-trial-0128,best,9,holdout,fp32,50-59,0-2,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,50-59,3-9,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,50-59,10-19,1
+optuna-pretrained-trial-0128,best,9,holdout,fp32,50-59,20-29,6
+optuna-pretrained-trial-0128,best,9,holdout,fp32,50-59,30-39,85
+optuna-pretrained-trial-0128,best,9,holdout,fp32,50-59,40-49,259
+optuna-pretrained-trial-0128,best,9,holdout,fp32,50-59,50-59,304
+optuna-pretrained-trial-0128,best,9,holdout,fp32,50-59,60-69,133
+optuna-pretrained-trial-0128,best,9,holdout,fp32,50-59,more than 70,8
+optuna-pretrained-trial-0128,best,9,holdout,fp32,60-69,0-2,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,60-69,3-9,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,60-69,10-19,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,60-69,20-29,1
+optuna-pretrained-trial-0128,best,9,holdout,fp32,60-69,30-39,3
+optuna-pretrained-trial-0128,best,9,holdout,fp32,60-69,40-49,31
+optuna-pretrained-trial-0128,best,9,holdout,fp32,60-69,50-59,94
+optuna-pretrained-trial-0128,best,9,holdout,fp32,60-69,60-69,150
+optuna-pretrained-trial-0128,best,9,holdout,fp32,60-69,more than 70,42
+optuna-pretrained-trial-0128,best,9,holdout,fp32,more than 70,0-2,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,more than 70,3-9,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,more than 70,10-19,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,more than 70,20-29,0
+optuna-pretrained-trial-0128,best,9,holdout,fp32,more than 70,30-39,2
+optuna-pretrained-trial-0128,best,9,holdout,fp32,more than 70,40-49,1
+optuna-pretrained-trial-0128,best,9,holdout,fp32,more than 70,50-59,14
+optuna-pretrained-trial-0128,best,9,holdout,fp32,more than 70,60-69,55
+optuna-pretrained-trial-0128,best,9,holdout,fp32,more than 70,more than 70,46

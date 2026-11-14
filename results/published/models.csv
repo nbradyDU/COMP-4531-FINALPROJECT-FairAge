@@ -1,0 +1,6 @@
+run,label,experiment,selected_epoch,completed_epochs,selection_metric,selection_precision,epochs,batch_size,workers,lr,head_lr_factor,weight_decay,warmup_epochs,schedule,dropout,label_smoothing,augmentation,gradient_clip,seed,precision,device,patience,min_epochs,trainable_parameters
+lean-scratch-s4531,Scratch (baseline),scratch,28,50,earliest_max_dev_macro_f1,bf16,50,64,8,0.0001,1,0.050000000000000003,0,cosine,0,0,standard,1,4531,bf16,cuda,0,0,5526153
+lean-pretrained-s4531,Pretrained (baseline),pretrained,44,50,earliest_max_dev_macro_f1,bf16,50,64,8,0.0001,1,0.050000000000000003,0,cosine,0,0,standard,1,4531,bf16,cuda,0,0,5526153
+lean-frozen-s4531,Pretrained (frozen),frozen,36,50,earliest_max_dev_macro_f1,bf16,50,64,8,0.0001,1,0.050000000000000003,0,cosine,0,0,standard,1,4531,bf16,cuda,0,0,1737
+optuna-scratch-trial-0011,Scratch (tuned),scratch,55,73,earliest_max_dev_macro_f1,bf16,100,64,8,0.00012909559557578755,1,0.0021456141632121809,0,constant,0.10000000000000001,0.10000000000000001,crop,1,4531,bf16,cuda,18,40,5526153
+optuna-pretrained-trial-0128,Pretrained (tuned),pretrained,9,21,earliest_max_dev_macro_f1,bf16,50,64,8,4.8984743355584089e-05,10,0.033641391525972827,0,constant,0,0.050000000000000003,crop,1,4531,bf16,cuda,12,15,5526153

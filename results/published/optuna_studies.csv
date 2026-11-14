@@ -1,0 +1,3 @@
+study,experiment,selection_precision,direction,trials,complete,pruned,fail,running,waiting,best_trial,best_value
+optuna-scratch,scratch,bf16,maximize,51,17,34,0,0,0,11,0.50063858803268735
+optuna-pretrained,pretrained,bf16,maximize,143,117,26,0,0,0,128,0.55074113982303652

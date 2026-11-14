@@ -1,0 +1,631 @@
+run,checkpoint,epoch,split,evaluation_precision,race,age,support,accuracy,suppressed
+lean-scratch-s4531,best,28,development,fp32,East Asian,0-2,43,0.53488372093023251,False
+lean-scratch-s4531,best,28,development,fp32,East Asian,3-9,148,0.83108108108108103,False
+lean-scratch-s4531,best,28,development,fp32,East Asian,10-19,111,0.10810810810810811,False
+lean-scratch-s4531,best,28,development,fp32,East Asian,20-29,480,0.72499999999999998,False
+lean-scratch-s4531,best,28,development,fp32,East Asian,30-39,227,0.34361233480176212,False
+lean-scratch-s4531,best,28,development,fp32,East Asian,40-49,92,0.20652173913043478,False
+lean-scratch-s4531,best,28,development,fp32,East Asian,50-59,51,0.35294117647058826,False
+lean-scratch-s4531,best,28,development,fp32,East Asian,60-69,28,,True
+lean-scratch-s4531,best,28,development,fp32,East Asian,more than 70,5,,True
+lean-scratch-s4531,best,28,development,fp32,Indian,0-2,20,,True
+lean-scratch-s4531,best,28,development,fp32,Indian,3-9,150,0.62666666666666671,False
+lean-scratch-s4531,best,28,development,fp32,Indian,10-19,169,0.36094674556213019,False
+lean-scratch-s4531,best,28,development,fp32,Indian,20-29,307,0.57328990228013033,False
+lean-scratch-s4531,best,28,development,fp32,Indian,30-39,290,0.53793103448275859,False
+lean-scratch-s4531,best,28,development,fp32,Indian,40-49,182,0.21428571428571427,False
+lean-scratch-s4531,best,28,development,fp32,Indian,50-59,130,0.43076923076923079,False
+lean-scratch-s4531,best,28,development,fp32,Indian,60-69,54,0.20370370370370369,False
+lean-scratch-s4531,best,28,development,fp32,Indian,more than 70,15,,True
+lean-scratch-s4531,best,28,development,fp32,Black,0-2,26,,True
+lean-scratch-s4531,best,28,development,fp32,Black,3-9,214,0.73831775700934577,False
+lean-scratch-s4531,best,28,development,fp32,Black,10-19,145,0.27586206896551724,False
+lean-scratch-s4531,best,28,development,fp32,Black,20-29,320,0.40937499999999999,False
+lean-scratch-s4531,best,28,development,fp32,Black,30-39,268,0.46268656716417911,False
+lean-scratch-s4531,best,28,development,fp32,Black,40-49,160,0.19375000000000001,False
+lean-scratch-s4531,best,28,development,fp32,Black,50-59,63,0.22222222222222221,False
+lean-scratch-s4531,best,28,development,fp32,Black,60-69,18,,True
+lean-scratch-s4531,best,28,development,fp32,Black,more than 70,9,,True
+lean-scratch-s4531,best,28,development,fp32,White,0-2,39,0.61538461538461542,False
+lean-scratch-s4531,best,28,development,fp32,White,3-9,131,0.63358778625954193,False
+lean-scratch-s4531,best,28,development,fp32,White,10-19,122,0.073770491803278687,False
+lean-scratch-s4531,best,28,development,fp32,White,20-29,552,0.58333333333333337,False
+lean-scratch-s4531,best,28,development,fp32,White,30-39,412,0.48300970873786409,False
+lean-scratch-s4531,best,28,development,fp32,White,40-49,204,0.36764705882352944,False
+lean-scratch-s4531,best,28,development,fp32,White,50-59,115,0.34782608695652173,False
+lean-scratch-s4531,best,28,development,fp32,White,60-69,66,0.46969696969696972,False
+lean-scratch-s4531,best,28,development,fp32,White,more than 70,12,,True
+lean-scratch-s4531,best,28,development,fp32,Middle Eastern,0-2,13,,True
+lean-scratch-s4531,best,28,development,fp32,Middle Eastern,3-9,62,0.70967741935483875,False
+lean-scratch-s4531,best,28,development,fp32,Middle Eastern,10-19,77,0.19480519480519481,False
+lean-scratch-s4531,best,28,development,fp32,Middle Eastern,20-29,221,0.62895927601809953,False
+lean-scratch-s4531,best,28,development,fp32,Middle Eastern,30-39,232,0.58620689655172409,False
+lean-scratch-s4531,best,28,development,fp32,Middle Eastern,40-49,151,0.35099337748344372,False
+lean-scratch-s4531,best,28,development,fp32,Middle Eastern,50-59,85,0.32941176470588235,False
+lean-scratch-s4531,best,28,development,fp32,Middle Eastern,60-69,42,0.59523809523809523,False
+lean-scratch-s4531,best,28,development,fp32,Middle Eastern,more than 70,14,,True
+lean-scratch-s4531,best,28,development,fp32,Latino_Hispanic,0-2,19,,True
+lean-scratch-s4531,best,28,development,fp32,Latino_Hispanic,3-9,162,0.68518518518518523,False
+lean-scratch-s4531,best,28,development,fp32,Latino_Hispanic,10-19,146,0.20547945205479451,False
+lean-scratch-s4531,best,28,development,fp32,Latino_Hispanic,20-29,343,0.62973760932944611,False
+lean-scratch-s4531,best,28,development,fp32,Latino_Hispanic,30-39,284,0.53169014084507038,False
+lean-scratch-s4531,best,28,development,fp32,Latino_Hispanic,40-49,187,0.32620320855614976,False
+lean-scratch-s4531,best,28,development,fp32,Latino_Hispanic,50-59,115,0.46086956521739131,False
+lean-scratch-s4531,best,28,development,fp32,Latino_Hispanic,60-69,42,0.38095238095238093,False
+lean-scratch-s4531,best,28,development,fp32,Latino_Hispanic,more than 70,16,,True
+lean-scratch-s4531,best,28,development,fp32,Southeast Asian,0-2,19,,True
+lean-scratch-s4531,best,28,development,fp32,Southeast Asian,3-9,165,0.81818181818181823,False
+lean-scratch-s4531,best,28,development,fp32,Southeast Asian,10-19,135,0.19259259259259259,False
+lean-scratch-s4531,best,28,development,fp32,Southeast Asian,20-29,332,0.64457831325301207,False
+lean-scratch-s4531,best,28,development,fp32,Southeast Asian,30-39,208,0.38461538461538464,False
+lean-scratch-s4531,best,28,development,fp32,Southeast Asian,40-49,95,0.18947368421052632,False
+lean-scratch-s4531,best,28,development,fp32,Southeast Asian,50-59,62,0.38709677419354838,False
+lean-scratch-s4531,best,28,development,fp32,Southeast Asian,60-69,27,,True
+lean-scratch-s4531,best,28,development,fp32,Southeast Asian,more than 70,13,,True
+lean-scratch-s4531,best,28,holdout,fp32,East Asian,0-2,49,0.61224489795918369,False
+lean-scratch-s4531,best,28,holdout,fp32,East Asian,3-9,220,0.79090909090909089,False
+lean-scratch-s4531,best,28,holdout,fp32,East Asian,10-19,145,0.15862068965517243,False
+lean-scratch-s4531,best,28,holdout,fp32,East Asian,20-29,649,0.71648690292758088,False
+lean-scratch-s4531,best,28,holdout,fp32,East Asian,30-39,258,0.27131782945736432,False
+lean-scratch-s4531,best,28,holdout,fp32,East Asian,40-49,127,0.19685039370078741,False
+lean-scratch-s4531,best,28,holdout,fp32,East Asian,50-59,58,0.29310344827586204,False
+lean-scratch-s4531,best,28,holdout,fp32,East Asian,60-69,30,0.36666666666666664,False
+lean-scratch-s4531,best,28,holdout,fp32,East Asian,more than 70,14,,True
+lean-scratch-s4531,best,28,holdout,fp32,Indian,0-2,18,,True
+lean-scratch-s4531,best,28,holdout,fp32,Indian,3-9,183,0.72677595628415304,False
+lean-scratch-s4531,best,28,holdout,fp32,Indian,10-19,186,0.29569892473118281,False
+lean-scratch-s4531,best,28,holdout,fp32,Indian,20-29,383,0.56396866840731075,False
+lean-scratch-s4531,best,28,holdout,fp32,Indian,30-39,348,0.55172413793103448,False
+lean-scratch-s4531,best,28,holdout,fp32,Indian,40-49,199,0.33668341708542715,False
+lean-scratch-s4531,best,28,holdout,fp32,Indian,50-59,130,0.34615384615384615,False
+lean-scratch-s4531,best,28,holdout,fp32,Indian,60-69,44,0.31818181818181818,False
+lean-scratch-s4531,best,28,holdout,fp32,Indian,more than 70,25,,True
+lean-scratch-s4531,best,28,holdout,fp32,Black,0-2,25,,True
+lean-scratch-s4531,best,28,holdout,fp32,Black,3-9,256,0.6796875,False
+lean-scratch-s4531,best,28,holdout,fp32,Black,10-19,203,0.29556650246305421,False
+lean-scratch-s4531,best,28,holdout,fp32,Black,20-29,403,0.4665012406947891,False
+lean-scratch-s4531,best,28,holdout,fp32,Black,30-39,337,0.49554896142433236,False
+lean-scratch-s4531,best,28,holdout,fp32,Black,40-49,188,0.19148936170212766,False
+lean-scratch-s4531,best,28,holdout,fp32,Black,50-59,92,0.27173913043478259,False
+lean-scratch-s4531,best,28,holdout,fp32,Black,60-69,32,0.25,False
+lean-scratch-s4531,best,28,holdout,fp32,Black,more than 70,20,,True
+lean-scratch-s4531,best,28,holdout,fp32,White,0-2,44,0.68181818181818177,False
+lean-scratch-s4531,best,28,holdout,fp32,White,3-9,196,0.68877551020408168,False
+lean-scratch-s4531,best,28,holdout,fp32,White,10-19,167,0.089820359281437126,False
+lean-scratch-s4531,best,28,holdout,fp32,White,20-29,641,0.59906396255850236,False
+lean-scratch-s4531,best,28,holdout,fp32,White,30-39,480,0.5083333333333333,False
+lean-scratch-s4531,best,28,holdout,fp32,White,40-49,255,0.33333333333333331,False
+lean-scratch-s4531,best,28,holdout,fp32,White,50-59,205,0.32195121951219513,False
+lean-scratch-s4531,best,28,holdout,fp32,White,60-69,75,0.47999999999999998,False
+lean-scratch-s4531,best,28,holdout,fp32,White,more than 70,22,,True
+lean-scratch-s4531,best,28,holdout,fp32,Middle Eastern,0-2,10,,True
+lean-scratch-s4531,best,28,holdout,fp32,Middle Eastern,3-9,116,0.65517241379310343,False
+lean-scratch-s4531,best,28,holdout,fp32,Middle Eastern,10-19,85,0.20000000000000001,False
+lean-scratch-s4531,best,28,holdout,fp32,Middle Eastern,20-29,324,0.55246913580246915,False
+lean-scratch-s4531,best,28,holdout,fp32,Middle Eastern,30-39,299,0.61538461538461542,False
+lean-scratch-s4531,best,28,holdout,fp32,Middle Eastern,40-49,196,0.30612244897959184,False
+lean-scratch-s4531,best,28,holdout,fp32,Middle Eastern,50-59,105,0.33333333333333331,False
+lean-scratch-s4531,best,28,holdout,fp32,Middle Eastern,60-69,56,0.42857142857142855,False
+lean-scratch-s4531,best,28,holdout,fp32,Middle Eastern,more than 70,18,,True
+lean-scratch-s4531,best,28,holdout,fp32,Latino_Hispanic,0-2,19,,True
+lean-scratch-s4531,best,28,holdout,fp32,Latino_Hispanic,3-9,178,0.6741573033707865,False
+lean-scratch-s4531,best,28,holdout,fp32,Latino_Hispanic,10-19,215,0.18139534883720931,False
+lean-scratch-s4531,best,28,holdout,fp32,Latino_Hispanic,20-29,430,0.61395348837209307,False
+lean-scratch-s4531,best,28,holdout,fp32,Latino_Hispanic,30-39,340,0.52941176470588236,False
+lean-scratch-s4531,best,28,holdout,fp32,Latino_Hispanic,40-49,261,0.30268199233716475,False
+lean-scratch-s4531,best,28,holdout,fp32,Latino_Hispanic,50-59,131,0.4351145038167939,False
+lean-scratch-s4531,best,28,holdout,fp32,Latino_Hispanic,60-69,45,0.53333333333333333,False
+lean-scratch-s4531,best,28,holdout,fp32,Latino_Hispanic,more than 70,4,,True
+lean-scratch-s4531,best,28,holdout,fp32,Southeast Asian,0-2,34,0.58823529411764708,False
+lean-scratch-s4531,best,28,holdout,fp32,Southeast Asian,3-9,207,0.78260869565217395,False
+lean-scratch-s4531,best,28,holdout,fp32,Southeast Asian,10-19,180,0.18888888888888888,False
+lean-scratch-s4531,best,28,holdout,fp32,Southeast Asian,20-29,470,0.67446808510638301,False
+lean-scratch-s4531,best,28,holdout,fp32,Southeast Asian,30-39,268,0.32835820895522388,False
+lean-scratch-s4531,best,28,holdout,fp32,Southeast Asian,40-49,127,0.23622047244094488,False
+lean-scratch-s4531,best,28,holdout,fp32,Southeast Asian,50-59,75,0.33333333333333331,False
+lean-scratch-s4531,best,28,holdout,fp32,Southeast Asian,60-69,39,0.15384615384615385,False
+lean-scratch-s4531,best,28,holdout,fp32,Southeast Asian,more than 70,15,,True
+lean-pretrained-s4531,best,44,development,fp32,East Asian,0-2,43,0.72093023255813948,False
+lean-pretrained-s4531,best,44,development,fp32,East Asian,3-9,148,0.86486486486486491,False
+lean-pretrained-s4531,best,44,development,fp32,East Asian,10-19,111,0.23423423423423423,False
+lean-pretrained-s4531,best,44,development,fp32,East Asian,20-29,480,0.70833333333333337,False
+lean-pretrained-s4531,best,44,development,fp32,East Asian,30-39,227,0.34361233480176212,False
+lean-pretrained-s4531,best,44,development,fp32,East Asian,40-49,92,0.38043478260869568,False
+lean-pretrained-s4531,best,44,development,fp32,East Asian,50-59,51,0.39215686274509803,False
+lean-pretrained-s4531,best,44,development,fp32,East Asian,60-69,28,,True
+lean-pretrained-s4531,best,44,development,fp32,East Asian,more than 70,5,,True
+lean-pretrained-s4531,best,44,development,fp32,Indian,0-2,20,,True
+lean-pretrained-s4531,best,44,development,fp32,Indian,3-9,150,0.68666666666666665,False
+lean-pretrained-s4531,best,44,development,fp32,Indian,10-19,169,0.54437869822485208,False
+lean-pretrained-s4531,best,44,development,fp32,Indian,20-29,307,0.59283387622149841,False
+lean-pretrained-s4531,best,44,development,fp32,Indian,30-39,290,0.4517241379310345,False
+lean-pretrained-s4531,best,44,development,fp32,Indian,40-49,182,0.40109890109890112,False
+lean-pretrained-s4531,best,44,development,fp32,Indian,50-59,130,0.36153846153846153,False
+lean-pretrained-s4531,best,44,development,fp32,Indian,60-69,54,0.37037037037037035,False
+lean-pretrained-s4531,best,44,development,fp32,Indian,more than 70,15,,True
+lean-pretrained-s4531,best,44,development,fp32,Black,0-2,26,,True
+lean-pretrained-s4531,best,44,development,fp32,Black,3-9,214,0.82710280373831779,False
+lean-pretrained-s4531,best,44,development,fp32,Black,10-19,145,0.4689655172413793,False
+lean-pretrained-s4531,best,44,development,fp32,Black,20-29,320,0.56874999999999998,False
+lean-pretrained-s4531,best,44,development,fp32,Black,30-39,268,0.42910447761194032,False
+lean-pretrained-s4531,best,44,development,fp32,Black,40-49,160,0.34375,False
+lean-pretrained-s4531,best,44,development,fp32,Black,50-59,63,0.30158730158730157,False
+lean-pretrained-s4531,best,44,development,fp32,Black,60-69,18,,True
+lean-pretrained-s4531,best,44,development,fp32,Black,more than 70,9,,True
+lean-pretrained-s4531,best,44,development,fp32,White,0-2,39,0.74358974358974361,False
+lean-pretrained-s4531,best,44,development,fp32,White,3-9,131,0.7862595419847328,False
+lean-pretrained-s4531,best,44,development,fp32,White,10-19,122,0.29508196721311475,False
+lean-pretrained-s4531,best,44,development,fp32,White,20-29,552,0.65942028985507251,False
+lean-pretrained-s4531,best,44,development,fp32,White,30-39,412,0.48058252427184467,False
+lean-pretrained-s4531,best,44,development,fp32,White,40-49,204,0.37745098039215685,False
+lean-pretrained-s4531,best,44,development,fp32,White,50-59,115,0.52173913043478259,False
+lean-pretrained-s4531,best,44,development,fp32,White,60-69,66,0.43939393939393939,False
+lean-pretrained-s4531,best,44,development,fp32,White,more than 70,12,,True
+lean-pretrained-s4531,best,44,development,fp32,Middle Eastern,0-2,13,,True
+lean-pretrained-s4531,best,44,development,fp32,Middle Eastern,3-9,62,0.72580645161290325,False
+lean-pretrained-s4531,best,44,development,fp32,Middle Eastern,10-19,77,0.45454545454545453,False
+lean-pretrained-s4531,best,44,development,fp32,Middle Eastern,20-29,221,0.62895927601809953,False
+lean-pretrained-s4531,best,44,development,fp32,Middle Eastern,30-39,232,0.5431034482758621,False
+lean-pretrained-s4531,best,44,development,fp32,Middle Eastern,40-49,151,0.47682119205298013,False
+lean-pretrained-s4531,best,44,development,fp32,Middle Eastern,50-59,85,0.51764705882352946,False
+lean-pretrained-s4531,best,44,development,fp32,Middle Eastern,60-69,42,0.66666666666666663,False
+lean-pretrained-s4531,best,44,development,fp32,Middle Eastern,more than 70,14,,True
+lean-pretrained-s4531,best,44,development,fp32,Latino_Hispanic,0-2,19,,True
+lean-pretrained-s4531,best,44,development,fp32,Latino_Hispanic,3-9,162,0.7592592592592593,False
+lean-pretrained-s4531,best,44,development,fp32,Latino_Hispanic,10-19,146,0.43835616438356162,False
+lean-pretrained-s4531,best,44,development,fp32,Latino_Hispanic,20-29,343,0.67638483965014573,False
+lean-pretrained-s4531,best,44,development,fp32,Latino_Hispanic,30-39,284,0.51760563380281688,False
+lean-pretrained-s4531,best,44,development,fp32,Latino_Hispanic,40-49,187,0.47058823529411764,False
+lean-pretrained-s4531,best,44,development,fp32,Latino_Hispanic,50-59,115,0.46086956521739131,False
+lean-pretrained-s4531,best,44,development,fp32,Latino_Hispanic,60-69,42,0.40476190476190477,False
+lean-pretrained-s4531,best,44,development,fp32,Latino_Hispanic,more than 70,16,,True
+lean-pretrained-s4531,best,44,development,fp32,Southeast Asian,0-2,19,,True
+lean-pretrained-s4531,best,44,development,fp32,Southeast Asian,3-9,165,0.83030303030303032,False
+lean-pretrained-s4531,best,44,development,fp32,Southeast Asian,10-19,135,0.37037037037037035,False
+lean-pretrained-s4531,best,44,development,fp32,Southeast Asian,20-29,332,0.67168674698795183,False
+lean-pretrained-s4531,best,44,development,fp32,Southeast Asian,30-39,208,0.4375,False
+lean-pretrained-s4531,best,44,development,fp32,Southeast Asian,40-49,95,0.40000000000000002,False
+lean-pretrained-s4531,best,44,development,fp32,Southeast Asian,50-59,62,0.37096774193548387,False
+lean-pretrained-s4531,best,44,development,fp32,Southeast Asian,60-69,27,,True
+lean-pretrained-s4531,best,44,development,fp32,Southeast Asian,more than 70,13,,True
+lean-pretrained-s4531,best,44,holdout,fp32,East Asian,0-2,49,0.73469387755102045,False
+lean-pretrained-s4531,best,44,holdout,fp32,East Asian,3-9,220,0.83181818181818179,False
+lean-pretrained-s4531,best,44,holdout,fp32,East Asian,10-19,145,0.30344827586206896,False
+lean-pretrained-s4531,best,44,holdout,fp32,East Asian,20-29,649,0.6825885978428351,False
+lean-pretrained-s4531,best,44,holdout,fp32,East Asian,30-39,258,0.37209302325581395,False
+lean-pretrained-s4531,best,44,holdout,fp32,East Asian,40-49,127,0.29133858267716534,False
+lean-pretrained-s4531,best,44,holdout,fp32,East Asian,50-59,58,0.39655172413793105,False
+lean-pretrained-s4531,best,44,holdout,fp32,East Asian,60-69,30,0.26666666666666666,False
+lean-pretrained-s4531,best,44,holdout,fp32,East Asian,more than 70,14,,True
+lean-pretrained-s4531,best,44,holdout,fp32,Indian,0-2,18,,True
+lean-pretrained-s4531,best,44,holdout,fp32,Indian,3-9,183,0.7103825136612022,False
+lean-pretrained-s4531,best,44,holdout,fp32,Indian,10-19,186,0.5268817204301075,False
+lean-pretrained-s4531,best,44,holdout,fp32,Indian,20-29,383,0.64490861618798956,False
+lean-pretrained-s4531,best,44,holdout,fp32,Indian,30-39,348,0.45402298850574713,False
+lean-pretrained-s4531,best,44,holdout,fp32,Indian,40-49,199,0.47738693467336685,False
+lean-pretrained-s4531,best,44,holdout,fp32,Indian,50-59,130,0.40769230769230769,False
+lean-pretrained-s4531,best,44,holdout,fp32,Indian,60-69,44,0.36363636363636365,False
+lean-pretrained-s4531,best,44,holdout,fp32,Indian,more than 70,25,,True
+lean-pretrained-s4531,best,44,holdout,fp32,Black,0-2,25,,True
+lean-pretrained-s4531,best,44,holdout,fp32,Black,3-9,256,0.7265625,False
+lean-pretrained-s4531,best,44,holdout,fp32,Black,10-19,203,0.52709359605911332,False
+lean-pretrained-s4531,best,44,holdout,fp32,Black,20-29,403,0.57071960297766744,False
+lean-pretrained-s4531,best,44,holdout,fp32,Black,30-39,337,0.40949554896142432,False
+lean-pretrained-s4531,best,44,holdout,fp32,Black,40-49,188,0.36702127659574468,False
+lean-pretrained-s4531,best,44,holdout,fp32,Black,50-59,92,0.34782608695652173,False
+lean-pretrained-s4531,best,44,holdout,fp32,Black,60-69,32,0.25,False
+lean-pretrained-s4531,best,44,holdout,fp32,Black,more than 70,20,,True
+lean-pretrained-s4531,best,44,holdout,fp32,White,0-2,44,0.81818181818181823,False
+lean-pretrained-s4531,best,44,holdout,fp32,White,3-9,196,0.72959183673469385,False
+lean-pretrained-s4531,best,44,holdout,fp32,White,10-19,167,0.23353293413173654,False
+lean-pretrained-s4531,best,44,holdout,fp32,White,20-29,641,0.65366614664586586,False
+lean-pretrained-s4531,best,44,holdout,fp32,White,30-39,480,0.5,False
+lean-pretrained-s4531,best,44,holdout,fp32,White,40-49,255,0.50196078431372548,False
+lean-pretrained-s4531,best,44,holdout,fp32,White,50-59,205,0.43414634146341463,False
+lean-pretrained-s4531,best,44,holdout,fp32,White,60-69,75,0.50666666666666671,False
+lean-pretrained-s4531,best,44,holdout,fp32,White,more than 70,22,,True
+lean-pretrained-s4531,best,44,holdout,fp32,Middle Eastern,0-2,10,,True
+lean-pretrained-s4531,best,44,holdout,fp32,Middle Eastern,3-9,116,0.69827586206896552,False
+lean-pretrained-s4531,best,44,holdout,fp32,Middle Eastern,10-19,85,0.44705882352941179,False
+lean-pretrained-s4531,best,44,holdout,fp32,Middle Eastern,20-29,324,0.65123456790123457,False
+lean-pretrained-s4531,best,44,holdout,fp32,Middle Eastern,30-39,299,0.56856187290969895,False
+lean-pretrained-s4531,best,44,holdout,fp32,Middle Eastern,40-49,196,0.44387755102040816,False
+lean-pretrained-s4531,best,44,holdout,fp32,Middle Eastern,50-59,105,0.40952380952380951,False
+lean-pretrained-s4531,best,44,holdout,fp32,Middle Eastern,60-69,56,0.42857142857142855,False
+lean-pretrained-s4531,best,44,holdout,fp32,Middle Eastern,more than 70,18,,True
+lean-pretrained-s4531,best,44,holdout,fp32,Latino_Hispanic,0-2,19,,True
+lean-pretrained-s4531,best,44,holdout,fp32,Latino_Hispanic,3-9,178,0.7415730337078652,False
+lean-pretrained-s4531,best,44,holdout,fp32,Latino_Hispanic,10-19,215,0.39534883720930231,False
+lean-pretrained-s4531,best,44,holdout,fp32,Latino_Hispanic,20-29,430,0.63953488372093026,False
+lean-pretrained-s4531,best,44,holdout,fp32,Latino_Hispanic,30-39,340,0.43529411764705883,False
+lean-pretrained-s4531,best,44,holdout,fp32,Latino_Hispanic,40-49,261,0.46743295019157088,False
+lean-pretrained-s4531,best,44,holdout,fp32,Latino_Hispanic,50-59,131,0.44274809160305345,False
+lean-pretrained-s4531,best,44,holdout,fp32,Latino_Hispanic,60-69,45,0.48888888888888887,False
+lean-pretrained-s4531,best,44,holdout,fp32,Latino_Hispanic,more than 70,4,,True
+lean-pretrained-s4531,best,44,holdout,fp32,Southeast Asian,0-2,34,0.82352941176470584,False
+lean-pretrained-s4531,best,44,holdout,fp32,Southeast Asian,3-9,207,0.80676328502415462,False
+lean-pretrained-s4531,best,44,holdout,fp32,Southeast Asian,10-19,180,0.35555555555555557,False
+lean-pretrained-s4531,best,44,holdout,fp32,Southeast Asian,20-29,470,0.68085106382978722,False
+lean-pretrained-s4531,best,44,holdout,fp32,Southeast Asian,30-39,268,0.36567164179104478,False
+lean-pretrained-s4531,best,44,holdout,fp32,Southeast Asian,40-49,127,0.33070866141732286,False
+lean-pretrained-s4531,best,44,holdout,fp32,Southeast Asian,50-59,75,0.34666666666666668,False
+lean-pretrained-s4531,best,44,holdout,fp32,Southeast Asian,60-69,39,0.38461538461538464,False
+lean-pretrained-s4531,best,44,holdout,fp32,Southeast Asian,more than 70,15,,True
+lean-frozen-s4531,best,36,development,fp32,East Asian,0-2,43,0.58139534883720934,False
+lean-frozen-s4531,best,36,development,fp32,East Asian,3-9,148,0.61486486486486491,False
+lean-frozen-s4531,best,36,development,fp32,East Asian,10-19,111,0.027027027027027029,False
+lean-frozen-s4531,best,36,development,fp32,East Asian,20-29,480,0.78749999999999998,False
+lean-frozen-s4531,best,36,development,fp32,East Asian,30-39,227,0.1894273127753304,False
+lean-frozen-s4531,best,36,development,fp32,East Asian,40-49,92,0.065217391304347824,False
+lean-frozen-s4531,best,36,development,fp32,East Asian,50-59,51,0.19607843137254902,False
+lean-frozen-s4531,best,36,development,fp32,East Asian,60-69,28,,True
+lean-frozen-s4531,best,36,development,fp32,East Asian,more than 70,5,,True
+lean-frozen-s4531,best,36,development,fp32,Indian,0-2,20,,True
+lean-frozen-s4531,best,36,development,fp32,Indian,3-9,150,0.49333333333333335,False
+lean-frozen-s4531,best,36,development,fp32,Indian,10-19,169,0.071005917159763315,False
+lean-frozen-s4531,best,36,development,fp32,Indian,20-29,307,0.67100977198697065,False
+lean-frozen-s4531,best,36,development,fp32,Indian,30-39,290,0.35517241379310344,False
+lean-frozen-s4531,best,36,development,fp32,Indian,40-49,182,0.15384615384615385,False
+lean-frozen-s4531,best,36,development,fp32,Indian,50-59,130,0.18461538461538463,False
+lean-frozen-s4531,best,36,development,fp32,Indian,60-69,54,0.16666666666666666,False
+lean-frozen-s4531,best,36,development,fp32,Indian,more than 70,15,,True
+lean-frozen-s4531,best,36,development,fp32,Black,0-2,26,,True
+lean-frozen-s4531,best,36,development,fp32,Black,3-9,214,0.51869158878504673,False
+lean-frozen-s4531,best,36,development,fp32,Black,10-19,145,0.055172413793103448,False
+lean-frozen-s4531,best,36,development,fp32,Black,20-29,320,0.50312500000000004,False
+lean-frozen-s4531,best,36,development,fp32,Black,30-39,268,0.33955223880597013,False
+lean-frozen-s4531,best,36,development,fp32,Black,40-49,160,0.25,False
+lean-frozen-s4531,best,36,development,fp32,Black,50-59,63,0.20634920634920634,False
+lean-frozen-s4531,best,36,development,fp32,Black,60-69,18,,True
+lean-frozen-s4531,best,36,development,fp32,Black,more than 70,9,,True
+lean-frozen-s4531,best,36,development,fp32,White,0-2,39,0.5641025641025641,False
+lean-frozen-s4531,best,36,development,fp32,White,3-9,131,0.53435114503816794,False
+lean-frozen-s4531,best,36,development,fp32,White,10-19,122,0.016393442622950821,False
+lean-frozen-s4531,best,36,development,fp32,White,20-29,552,0.71557971014492749,False
+lean-frozen-s4531,best,36,development,fp32,White,30-39,412,0.32038834951456313,False
+lean-frozen-s4531,best,36,development,fp32,White,40-49,204,0.18627450980392157,False
+lean-frozen-s4531,best,36,development,fp32,White,50-59,115,0.20869565217391303,False
+lean-frozen-s4531,best,36,development,fp32,White,60-69,66,0.16666666666666666,False
+lean-frozen-s4531,best,36,development,fp32,White,more than 70,12,,True
+lean-frozen-s4531,best,36,development,fp32,Middle Eastern,0-2,13,,True
+lean-frozen-s4531,best,36,development,fp32,Middle Eastern,3-9,62,0.46774193548387094,False
+lean-frozen-s4531,best,36,development,fp32,Middle Eastern,10-19,77,0,False
+lean-frozen-s4531,best,36,development,fp32,Middle Eastern,20-29,221,0.63348416289592757,False
+lean-frozen-s4531,best,36,development,fp32,Middle Eastern,30-39,232,0.38362068965517243,False
+lean-frozen-s4531,best,36,development,fp32,Middle Eastern,40-49,151,0.18543046357615894,False
+lean-frozen-s4531,best,36,development,fp32,Middle Eastern,50-59,85,0.23529411764705882,False
+lean-frozen-s4531,best,36,development,fp32,Middle Eastern,60-69,42,0.11904761904761904,False
+lean-frozen-s4531,best,36,development,fp32,Middle Eastern,more than 70,14,,True
+lean-frozen-s4531,best,36,development,fp32,Latino_Hispanic,0-2,19,,True
+lean-frozen-s4531,best,36,development,fp32,Latino_Hispanic,3-9,162,0.49382716049382713,False
+lean-frozen-s4531,best,36,development,fp32,Latino_Hispanic,10-19,146,0.054794520547945202,False
+lean-frozen-s4531,best,36,development,fp32,Latino_Hispanic,20-29,343,0.72303206997084546,False
+lean-frozen-s4531,best,36,development,fp32,Latino_Hispanic,30-39,284,0.32042253521126762,False
+lean-frozen-s4531,best,36,development,fp32,Latino_Hispanic,40-49,187,0.16577540106951871,False
+lean-frozen-s4531,best,36,development,fp32,Latino_Hispanic,50-59,115,0.14782608695652175,False
+lean-frozen-s4531,best,36,development,fp32,Latino_Hispanic,60-69,42,0.11904761904761904,False
+lean-frozen-s4531,best,36,development,fp32,Latino_Hispanic,more than 70,16,,True
+lean-frozen-s4531,best,36,development,fp32,Southeast Asian,0-2,19,,True
+lean-frozen-s4531,best,36,development,fp32,Southeast Asian,3-9,165,0.62424242424242427,False
+lean-frozen-s4531,best,36,development,fp32,Southeast Asian,10-19,135,0.088888888888888892,False
+lean-frozen-s4531,best,36,development,fp32,Southeast Asian,20-29,332,0.70783132530120485,False
+lean-frozen-s4531,best,36,development,fp32,Southeast Asian,30-39,208,0.22596153846153846,False
+lean-frozen-s4531,best,36,development,fp32,Southeast Asian,40-49,95,0.16842105263157894,False
+lean-frozen-s4531,best,36,development,fp32,Southeast Asian,50-59,62,0.016129032258064516,False
+lean-frozen-s4531,best,36,development,fp32,Southeast Asian,60-69,27,,True
+lean-frozen-s4531,best,36,development,fp32,Southeast Asian,more than 70,13,,True
+lean-frozen-s4531,best,36,holdout,fp32,East Asian,0-2,49,0.51020408163265307,False
+lean-frozen-s4531,best,36,holdout,fp32,East Asian,3-9,220,0.65454545454545454,False
+lean-frozen-s4531,best,36,holdout,fp32,East Asian,10-19,145,0.020689655172413793,False
+lean-frozen-s4531,best,36,holdout,fp32,East Asian,20-29,649,0.77812018489984591,False
+lean-frozen-s4531,best,36,holdout,fp32,East Asian,30-39,258,0.16666666666666666,False
+lean-frozen-s4531,best,36,holdout,fp32,East Asian,40-49,127,0.086614173228346455,False
+lean-frozen-s4531,best,36,holdout,fp32,East Asian,50-59,58,0.17241379310344829,False
+lean-frozen-s4531,best,36,holdout,fp32,East Asian,60-69,30,0.16666666666666666,False
+lean-frozen-s4531,best,36,holdout,fp32,East Asian,more than 70,14,,True
+lean-frozen-s4531,best,36,holdout,fp32,Indian,0-2,18,,True
+lean-frozen-s4531,best,36,holdout,fp32,Indian,3-9,183,0.55737704918032782,False
+lean-frozen-s4531,best,36,holdout,fp32,Indian,10-19,186,0.069892473118279563,False
+lean-frozen-s4531,best,36,holdout,fp32,Indian,20-29,383,0.66840731070496084,False
+lean-frozen-s4531,best,36,holdout,fp32,Indian,30-39,348,0.33045977011494254,False
+lean-frozen-s4531,best,36,holdout,fp32,Indian,40-49,199,0.16582914572864321,False
+lean-frozen-s4531,best,36,holdout,fp32,Indian,50-59,130,0.18461538461538463,False
+lean-frozen-s4531,best,36,holdout,fp32,Indian,60-69,44,0.18181818181818182,False
+lean-frozen-s4531,best,36,holdout,fp32,Indian,more than 70,25,,True
+lean-frozen-s4531,best,36,holdout,fp32,Black,0-2,25,,True
+lean-frozen-s4531,best,36,holdout,fp32,Black,3-9,256,0.52734375,False
+lean-frozen-s4531,best,36,holdout,fp32,Black,10-19,203,0.064039408866995079,False
+lean-frozen-s4531,best,36,holdout,fp32,Black,20-29,403,0.4987593052109181,False
+lean-frozen-s4531,best,36,holdout,fp32,Black,30-39,337,0.40949554896142432,False
+lean-frozen-s4531,best,36,holdout,fp32,Black,40-49,188,0.27659574468085107,False
+lean-frozen-s4531,best,36,holdout,fp32,Black,50-59,92,0.21739130434782608,False
+lean-frozen-s4531,best,36,holdout,fp32,Black,60-69,32,0.09375,False
+lean-frozen-s4531,best,36,holdout,fp32,Black,more than 70,20,,True
+lean-frozen-s4531,best,36,holdout,fp32,White,0-2,44,0.5,False
+lean-frozen-s4531,best,36,holdout,fp32,White,3-9,196,0.56122448979591832,False
+lean-frozen-s4531,best,36,holdout,fp32,White,10-19,167,0.011976047904191617,False
+lean-frozen-s4531,best,36,holdout,fp32,White,20-29,641,0.73322932917316697,False
+lean-frozen-s4531,best,36,holdout,fp32,White,30-39,480,0.34375,False
+lean-frozen-s4531,best,36,holdout,fp32,White,40-49,255,0.1803921568627451,False
+lean-frozen-s4531,best,36,holdout,fp32,White,50-59,205,0.19024390243902439,False
+lean-frozen-s4531,best,36,holdout,fp32,White,60-69,75,0.14666666666666667,False
+lean-frozen-s4531,best,36,holdout,fp32,White,more than 70,22,,True
+lean-frozen-s4531,best,36,holdout,fp32,Middle Eastern,0-2,10,,True
+lean-frozen-s4531,best,36,holdout,fp32,Middle Eastern,3-9,116,0.52586206896551724,False
+lean-frozen-s4531,best,36,holdout,fp32,Middle Eastern,10-19,85,0.047058823529411764,False
+lean-frozen-s4531,best,36,holdout,fp32,Middle Eastern,20-29,324,0.66975308641975306,False
+lean-frozen-s4531,best,36,holdout,fp32,Middle Eastern,30-39,299,0.41137123745819398,False
+lean-frozen-s4531,best,36,holdout,fp32,Middle Eastern,40-49,196,0.17346938775510204,False
+lean-frozen-s4531,best,36,holdout,fp32,Middle Eastern,50-59,105,0.19047619047619047,False
+lean-frozen-s4531,best,36,holdout,fp32,Middle Eastern,60-69,56,0.19642857142857142,False
+lean-frozen-s4531,best,36,holdout,fp32,Middle Eastern,more than 70,18,,True
+lean-frozen-s4531,best,36,holdout,fp32,Latino_Hispanic,0-2,19,,True
+lean-frozen-s4531,best,36,holdout,fp32,Latino_Hispanic,3-9,178,0.5056179775280899,False
+lean-frozen-s4531,best,36,holdout,fp32,Latino_Hispanic,10-19,215,0.041860465116279069,False
+lean-frozen-s4531,best,36,holdout,fp32,Latino_Hispanic,20-29,430,0.68139534883720931,False
+lean-frozen-s4531,best,36,holdout,fp32,Latino_Hispanic,30-39,340,0.27647058823529413,False
+lean-frozen-s4531,best,36,holdout,fp32,Latino_Hispanic,40-49,261,0.19157088122605365,False
+lean-frozen-s4531,best,36,holdout,fp32,Latino_Hispanic,50-59,131,0.25190839694656486,False
+lean-frozen-s4531,best,36,holdout,fp32,Latino_Hispanic,60-69,45,0.20000000000000001,False
+lean-frozen-s4531,best,36,holdout,fp32,Latino_Hispanic,more than 70,4,,True
+lean-frozen-s4531,best,36,holdout,fp32,Southeast Asian,0-2,34,0.58823529411764708,False
+lean-frozen-s4531,best,36,holdout,fp32,Southeast Asian,3-9,207,0.63285024154589375,False
+lean-frozen-s4531,best,36,holdout,fp32,Southeast Asian,10-19,180,0.055555555555555552,False
+lean-frozen-s4531,best,36,holdout,fp32,Southeast Asian,20-29,470,0.70851063829787231,False
+lean-frozen-s4531,best,36,holdout,fp32,Southeast Asian,30-39,268,0.23880597014925373,False
+lean-frozen-s4531,best,36,holdout,fp32,Southeast Asian,40-49,127,0.11811023622047244,False
+lean-frozen-s4531,best,36,holdout,fp32,Southeast Asian,50-59,75,0.14666666666666667,False
+lean-frozen-s4531,best,36,holdout,fp32,Southeast Asian,60-69,39,0.10256410256410256,False
+lean-frozen-s4531,best,36,holdout,fp32,Southeast Asian,more than 70,15,,True
+optuna-scratch-trial-0011,best,55,development,fp32,East Asian,0-2,43,0.65116279069767447,False
+optuna-scratch-trial-0011,best,55,development,fp32,East Asian,3-9,148,0.86486486486486491,False
+optuna-scratch-trial-0011,best,55,development,fp32,East Asian,10-19,111,0.15315315315315314,False
+optuna-scratch-trial-0011,best,55,development,fp32,East Asian,20-29,480,0.77708333333333335,False
+optuna-scratch-trial-0011,best,55,development,fp32,East Asian,30-39,227,0.27312775330396477,False
+optuna-scratch-trial-0011,best,55,development,fp32,East Asian,40-49,92,0.31521739130434784,False
+optuna-scratch-trial-0011,best,55,development,fp32,East Asian,50-59,51,0.29411764705882354,False
+optuna-scratch-trial-0011,best,55,development,fp32,East Asian,60-69,28,,True
+optuna-scratch-trial-0011,best,55,development,fp32,East Asian,more than 70,5,,True
+optuna-scratch-trial-0011,best,55,development,fp32,Indian,0-2,20,,True
+optuna-scratch-trial-0011,best,55,development,fp32,Indian,3-9,150,0.64000000000000001,False
+optuna-scratch-trial-0011,best,55,development,fp32,Indian,10-19,169,0.47928994082840237,False
+optuna-scratch-trial-0011,best,55,development,fp32,Indian,20-29,307,0.61889250814332253,False
+optuna-scratch-trial-0011,best,55,development,fp32,Indian,30-39,290,0.40689655172413791,False
+optuna-scratch-trial-0011,best,55,development,fp32,Indian,40-49,182,0.37362637362637363,False
+optuna-scratch-trial-0011,best,55,development,fp32,Indian,50-59,130,0.40000000000000002,False
+optuna-scratch-trial-0011,best,55,development,fp32,Indian,60-69,54,0.42592592592592593,False
+optuna-scratch-trial-0011,best,55,development,fp32,Indian,more than 70,15,,True
+optuna-scratch-trial-0011,best,55,development,fp32,Black,0-2,26,,True
+optuna-scratch-trial-0011,best,55,development,fp32,Black,3-9,214,0.78504672897196259,False
+optuna-scratch-trial-0011,best,55,development,fp32,Black,10-19,145,0.33103448275862069,False
+optuna-scratch-trial-0011,best,55,development,fp32,Black,20-29,320,0.56562500000000004,False
+optuna-scratch-trial-0011,best,55,development,fp32,Black,30-39,268,0.39925373134328357,False
+optuna-scratch-trial-0011,best,55,development,fp32,Black,40-49,160,0.27500000000000002,False
+optuna-scratch-trial-0011,best,55,development,fp32,Black,50-59,63,0.34920634920634919,False
+optuna-scratch-trial-0011,best,55,development,fp32,Black,60-69,18,,True
+optuna-scratch-trial-0011,best,55,development,fp32,Black,more than 70,9,,True
+optuna-scratch-trial-0011,best,55,development,fp32,White,0-2,39,0.61538461538461542,False
+optuna-scratch-trial-0011,best,55,development,fp32,White,3-9,131,0.6717557251908397,False
+optuna-scratch-trial-0011,best,55,development,fp32,White,10-19,122,0.18852459016393441,False
+optuna-scratch-trial-0011,best,55,development,fp32,White,20-29,552,0.68840579710144922,False
+optuna-scratch-trial-0011,best,55,development,fp32,White,30-39,412,0.41747572815533979,False
+optuna-scratch-trial-0011,best,55,development,fp32,White,40-49,204,0.33333333333333331,False
+optuna-scratch-trial-0011,best,55,development,fp32,White,50-59,115,0.41739130434782606,False
+optuna-scratch-trial-0011,best,55,development,fp32,White,60-69,66,0.54545454545454541,False
+optuna-scratch-trial-0011,best,55,development,fp32,White,more than 70,12,,True
+optuna-scratch-trial-0011,best,55,development,fp32,Middle Eastern,0-2,13,,True
+optuna-scratch-trial-0011,best,55,development,fp32,Middle Eastern,3-9,62,0.79032258064516125,False
+optuna-scratch-trial-0011,best,55,development,fp32,Middle Eastern,10-19,77,0.33766233766233766,False
+optuna-scratch-trial-0011,best,55,development,fp32,Middle Eastern,20-29,221,0.66063348416289591,False
+optuna-scratch-trial-0011,best,55,development,fp32,Middle Eastern,30-39,232,0.52155172413793105,False
+optuna-scratch-trial-0011,best,55,development,fp32,Middle Eastern,40-49,151,0.41721854304635764,False
+optuna-scratch-trial-0011,best,55,development,fp32,Middle Eastern,50-59,85,0.42352941176470588,False
+optuna-scratch-trial-0011,best,55,development,fp32,Middle Eastern,60-69,42,0.47619047619047616,False
+optuna-scratch-trial-0011,best,55,development,fp32,Middle Eastern,more than 70,14,,True
+optuna-scratch-trial-0011,best,55,development,fp32,Latino_Hispanic,0-2,19,,True
+optuna-scratch-trial-0011,best,55,development,fp32,Latino_Hispanic,3-9,162,0.75308641975308643,False
+optuna-scratch-trial-0011,best,55,development,fp32,Latino_Hispanic,10-19,146,0.28767123287671231,False
+optuna-scratch-trial-0011,best,55,development,fp32,Latino_Hispanic,20-29,343,0.70845481049562686,False
+optuna-scratch-trial-0011,best,55,development,fp32,Latino_Hispanic,30-39,284,0.42957746478873238,False
+optuna-scratch-trial-0011,best,55,development,fp32,Latino_Hispanic,40-49,187,0.38502673796791442,False
+optuna-scratch-trial-0011,best,55,development,fp32,Latino_Hispanic,50-59,115,0.4956521739130435,False
+optuna-scratch-trial-0011,best,55,development,fp32,Latino_Hispanic,60-69,42,0.38095238095238093,False
+optuna-scratch-trial-0011,best,55,development,fp32,Latino_Hispanic,more than 70,16,,True
+optuna-scratch-trial-0011,best,55,development,fp32,Southeast Asian,0-2,19,,True
+optuna-scratch-trial-0011,best,55,development,fp32,Southeast Asian,3-9,165,0.83030303030303032,False
+optuna-scratch-trial-0011,best,55,development,fp32,Southeast Asian,10-19,135,0.25185185185185183,False
+optuna-scratch-trial-0011,best,55,development,fp32,Southeast Asian,20-29,332,0.74397590361445787,False
+optuna-scratch-trial-0011,best,55,development,fp32,Southeast Asian,30-39,208,0.35576923076923078,False
+optuna-scratch-trial-0011,best,55,development,fp32,Southeast Asian,40-49,95,0.28421052631578947,False
+optuna-scratch-trial-0011,best,55,development,fp32,Southeast Asian,50-59,62,0.40322580645161288,False
+optuna-scratch-trial-0011,best,55,development,fp32,Southeast Asian,60-69,27,,True
+optuna-scratch-trial-0011,best,55,development,fp32,Southeast Asian,more than 70,13,,True
+optuna-scratch-trial-0011,best,55,holdout,fp32,East Asian,0-2,49,0.69387755102040816,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,East Asian,3-9,220,0.80909090909090908,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,East Asian,10-19,145,0.17241379310344829,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,East Asian,20-29,649,0.74730354391371345,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,East Asian,30-39,258,0.2558139534883721,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,East Asian,40-49,127,0.29133858267716534,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,East Asian,50-59,58,0.31034482758620691,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,East Asian,60-69,30,0.36666666666666664,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,East Asian,more than 70,14,,True
+optuna-scratch-trial-0011,best,55,holdout,fp32,Indian,0-2,18,,True
+optuna-scratch-trial-0011,best,55,holdout,fp32,Indian,3-9,183,0.71584699453551914,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Indian,10-19,186,0.41935483870967744,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Indian,20-29,383,0.66057441253263705,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Indian,30-39,348,0.40804597701149425,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Indian,40-49,199,0.37688442211055279,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Indian,50-59,130,0.40000000000000002,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Indian,60-69,44,0.40909090909090912,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Indian,more than 70,25,,True
+optuna-scratch-trial-0011,best,55,holdout,fp32,Black,0-2,25,,True
+optuna-scratch-trial-0011,best,55,holdout,fp32,Black,3-9,256,0.74609375,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Black,10-19,203,0.35467980295566504,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Black,20-29,403,0.60794044665012403,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Black,30-39,337,0.36795252225519287,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Black,40-49,188,0.32446808510638298,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Black,50-59,92,0.31521739130434784,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Black,60-69,32,0.1875,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Black,more than 70,20,,True
+optuna-scratch-trial-0011,best,55,holdout,fp32,White,0-2,44,0.75,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,White,3-9,196,0.73979591836734693,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,White,10-19,167,0.18562874251497005,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,White,20-29,641,0.66302652106084248,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,White,30-39,480,0.41249999999999998,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,White,40-49,255,0.38039215686274508,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,White,50-59,205,0.36585365853658536,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,White,60-69,75,0.50666666666666671,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,White,more than 70,22,,True
+optuna-scratch-trial-0011,best,55,holdout,fp32,Middle Eastern,0-2,10,,True
+optuna-scratch-trial-0011,best,55,holdout,fp32,Middle Eastern,3-9,116,0.62068965517241381,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Middle Eastern,10-19,85,0.29411764705882354,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Middle Eastern,20-29,324,0.65123456790123457,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Middle Eastern,30-39,299,0.53846153846153844,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Middle Eastern,40-49,196,0.37244897959183676,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Middle Eastern,50-59,105,0.40952380952380951,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Middle Eastern,60-69,56,0.5714285714285714,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Middle Eastern,more than 70,18,,True
+optuna-scratch-trial-0011,best,55,holdout,fp32,Latino_Hispanic,0-2,19,,True
+optuna-scratch-trial-0011,best,55,holdout,fp32,Latino_Hispanic,3-9,178,0.6797752808988764,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Latino_Hispanic,10-19,215,0.34418604651162793,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Latino_Hispanic,20-29,430,0.73255813953488369,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Latino_Hispanic,30-39,340,0.39411764705882352,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Latino_Hispanic,40-49,261,0.39846743295019155,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Latino_Hispanic,50-59,131,0.44274809160305345,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Latino_Hispanic,60-69,45,0.42222222222222222,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Latino_Hispanic,more than 70,4,,True
+optuna-scratch-trial-0011,best,55,holdout,fp32,Southeast Asian,0-2,34,0.70588235294117652,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Southeast Asian,3-9,207,0.87439613526570048,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Southeast Asian,10-19,180,0.28333333333333333,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Southeast Asian,20-29,470,0.73191489361702122,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Southeast Asian,30-39,268,0.34328358208955223,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Southeast Asian,40-49,127,0.29921259842519687,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Southeast Asian,50-59,75,0.21333333333333335,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Southeast Asian,60-69,39,0.35897435897435898,False
+optuna-scratch-trial-0011,best,55,holdout,fp32,Southeast Asian,more than 70,15,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,East Asian,0-2,43,0.7441860465116279,False
+optuna-pretrained-trial-0128,best,9,development,fp32,East Asian,3-9,148,0.81081081081081086,False
+optuna-pretrained-trial-0128,best,9,development,fp32,East Asian,10-19,111,0.28828828828828829,False
+optuna-pretrained-trial-0128,best,9,development,fp32,East Asian,20-29,480,0.6958333333333333,False
+optuna-pretrained-trial-0128,best,9,development,fp32,East Asian,30-39,227,0.43612334801762115,False
+optuna-pretrained-trial-0128,best,9,development,fp32,East Asian,40-49,92,0.36956521739130432,False
+optuna-pretrained-trial-0128,best,9,development,fp32,East Asian,50-59,51,0.47058823529411764,False
+optuna-pretrained-trial-0128,best,9,development,fp32,East Asian,60-69,28,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,East Asian,more than 70,5,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,Indian,0-2,20,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,Indian,3-9,150,0.62666666666666671,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Indian,10-19,169,0.53254437869822491,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Indian,20-29,307,0.57654723127035834,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Indian,30-39,290,0.58275862068965523,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Indian,40-49,182,0.37362637362637363,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Indian,50-59,130,0.34615384615384615,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Indian,60-69,54,0.3888888888888889,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Indian,more than 70,15,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,Black,0-2,26,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,Black,3-9,214,0.71028037383177567,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Black,10-19,145,0.51034482758620692,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Black,20-29,320,0.51249999999999996,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Black,30-39,268,0.56716417910447758,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Black,40-49,160,0.36875000000000002,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Black,50-59,63,0.41269841269841268,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Black,60-69,18,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,Black,more than 70,9,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,White,0-2,39,0.84615384615384615,False
+optuna-pretrained-trial-0128,best,9,development,fp32,White,3-9,131,0.76335877862595425,False
+optuna-pretrained-trial-0128,best,9,development,fp32,White,10-19,122,0.27049180327868855,False
+optuna-pretrained-trial-0128,best,9,development,fp32,White,20-29,552,0.6123188405797102,False
+optuna-pretrained-trial-0128,best,9,development,fp32,White,30-39,412,0.58009708737864074,False
+optuna-pretrained-trial-0128,best,9,development,fp32,White,40-49,204,0.39215686274509803,False
+optuna-pretrained-trial-0128,best,9,development,fp32,White,50-59,115,0.4956521739130435,False
+optuna-pretrained-trial-0128,best,9,development,fp32,White,60-69,66,0.53030303030303028,False
+optuna-pretrained-trial-0128,best,9,development,fp32,White,more than 70,12,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,Middle Eastern,0-2,13,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,Middle Eastern,3-9,62,0.67741935483870963,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Middle Eastern,10-19,77,0.42857142857142855,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Middle Eastern,20-29,221,0.61085972850678738,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Middle Eastern,30-39,232,0.66379310344827591,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Middle Eastern,40-49,151,0.48344370860927155,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Middle Eastern,50-59,85,0.47058823529411764,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Middle Eastern,60-69,42,0.59523809523809523,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Middle Eastern,more than 70,14,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,Latino_Hispanic,0-2,19,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,Latino_Hispanic,3-9,162,0.69753086419753085,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Latino_Hispanic,10-19,146,0.41095890410958902,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Latino_Hispanic,20-29,343,0.62390670553935856,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Latino_Hispanic,30-39,284,0.5598591549295775,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Latino_Hispanic,40-49,187,0.44919786096256686,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Latino_Hispanic,50-59,115,0.54782608695652169,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Latino_Hispanic,60-69,42,0.47619047619047616,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Latino_Hispanic,more than 70,16,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,Southeast Asian,0-2,19,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,Southeast Asian,3-9,165,0.80000000000000004,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Southeast Asian,10-19,135,0.4148148148148148,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Southeast Asian,20-29,332,0.66566265060240959,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Southeast Asian,30-39,208,0.5,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Southeast Asian,40-49,95,0.36842105263157893,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Southeast Asian,50-59,62,0.43548387096774194,False
+optuna-pretrained-trial-0128,best,9,development,fp32,Southeast Asian,60-69,27,,True
+optuna-pretrained-trial-0128,best,9,development,fp32,Southeast Asian,more than 70,13,,True
+optuna-pretrained-trial-0128,best,9,holdout,fp32,East Asian,0-2,49,0.77551020408163263,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,East Asian,3-9,220,0.77727272727272723,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,East Asian,10-19,145,0.29655172413793102,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,East Asian,20-29,649,0.66101694915254239,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,East Asian,30-39,258,0.4263565891472868,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,East Asian,40-49,127,0.33858267716535434,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,East Asian,50-59,58,0.39655172413793105,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,East Asian,60-69,30,0.43333333333333335,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,East Asian,more than 70,14,,True
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Indian,0-2,18,,True
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Indian,3-9,183,0.67759562841530052,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Indian,10-19,186,0.44086021505376344,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Indian,20-29,383,0.56919060052219317,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Indian,30-39,348,0.62931034482758619,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Indian,40-49,199,0.43216080402010049,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Indian,50-59,130,0.42307692307692307,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Indian,60-69,44,0.47727272727272729,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Indian,more than 70,25,,True
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Black,0-2,25,,True
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Black,3-9,256,0.6171875,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Black,10-19,203,0.54187192118226601,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Black,20-29,403,0.5186104218362283,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Black,30-39,337,0.56973293768545996,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Black,40-49,188,0.41489361702127658,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Black,50-59,92,0.32608695652173914,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Black,60-69,32,0.25,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Black,more than 70,20,,True
+optuna-pretrained-trial-0128,best,9,holdout,fp32,White,0-2,44,0.81818181818181823,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,White,3-9,196,0.76020408163265307,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,White,10-19,167,0.26946107784431139,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,White,20-29,641,0.59594383775351012,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,White,30-39,480,0.55833333333333335,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,White,40-49,255,0.47058823529411764,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,White,50-59,205,0.38536585365853659,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,White,60-69,75,0.54666666666666663,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,White,more than 70,22,,True
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Middle Eastern,0-2,10,,True
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Middle Eastern,3-9,116,0.59482758620689657,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Middle Eastern,10-19,85,0.40000000000000002,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Middle Eastern,20-29,324,0.55246913580246915,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Middle Eastern,30-39,299,0.68227424749163879,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Middle Eastern,40-49,196,0.48979591836734693,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Middle Eastern,50-59,105,0.45714285714285713,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Middle Eastern,60-69,56,0.5357142857142857,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Middle Eastern,more than 70,18,,True
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Latino_Hispanic,0-2,19,,True
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Latino_Hispanic,3-9,178,0.6910112359550562,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Latino_Hispanic,10-19,215,0.42325581395348838,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Latino_Hispanic,20-29,430,0.63023255813953494,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Latino_Hispanic,30-39,340,0.57647058823529407,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Latino_Hispanic,40-49,261,0.43678160919540232,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Latino_Hispanic,50-59,131,0.41984732824427479,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Latino_Hispanic,60-69,45,0.53333333333333333,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Latino_Hispanic,more than 70,4,,True
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Southeast Asian,0-2,34,0.82352941176470584,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Southeast Asian,3-9,207,0.81642512077294682,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Southeast Asian,10-19,180,0.33888888888888891,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Southeast Asian,20-29,470,0.68723404255319154,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Southeast Asian,30-39,268,0.47761194029850745,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Southeast Asian,40-49,127,0.40157480314960631,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Southeast Asian,50-59,75,0.18666666666666668,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Southeast Asian,60-69,39,0.33333333333333331,False
+optuna-pretrained-trial-0128,best,9,holdout,fp32,Southeast Asian,more than 70,15,,True
